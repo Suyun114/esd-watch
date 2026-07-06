@@ -1,0 +1,782 @@
+# Windows ESD Links
+
+> Auto-updated every day by [GitHub Actions](.github/workflows/update.yml).
+> Last refresh: **2026-07-06 10:13 UTC**
+
+> **Note:** CDN only serves HTTP — use `curl -LO` or right-click "Save link as…" to download.
+> Verify with `shasum -a 1 <file>` against the SHA1 shown after each link.
+
+## Windows 11 (build 26100.4349)
+
+- [ARM64 Windows 11 Enterprise Arabic (Saudi Arabia) 4.1 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/dc2fda26-76c8-4d09-9cd8-91aada7227a1/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTBUSINESS_VOL_A64FRE_ar-sa.esd)
+  - `546cee771eee6ffb04e7b8cf62cbb72666c771c2`
+- [ARM64 Windows 11 Enterprise Bulgarian (Bulgaria) 4.1 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/f7abb8e4-1745-4063-ad68-17aa75c18b0f/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTBUSINESS_VOL_A64FRE_bg-bg.esd)
+  - `150272515ea12718bc583c21d590b832cb4faa4f`
+- [ARM64 Windows 11 Enterprise Czech (Czechia) 4.1 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/58aaa5b4-e4c0-479c-a3bc-ffec144b2f8b/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTBUSINESS_VOL_A64FRE_cs-cz.esd)
+  - `4d61ced932e86bfddcd6355ca4ec67e8d8f65024`
+- [ARM64 Windows 11 Enterprise Danish (Denmark) 4.1 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/bcf01a10-690c-4fe8-9e47-0ba8c2b862be/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTBUSINESS_VOL_A64FRE_da-dk.esd)
+  - `ad042859ed9a3e1eed379bd8dfe3ecc9ab629a42`
+- [ARM64 Windows 11 Enterprise German (Germany) 4.2 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/4fdf27a5-4f85-40ae-a135-d9a4517371a4/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTBUSINESS_VOL_A64FRE_de-de.esd)
+  - `cfcab823726c7d95dfb3a8bef613b5412645e1d2`
+- [ARM64 Windows 11 Enterprise Greek (Greece) 4.1 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/1d83f408-c48f-4772-bb0a-0b188eb83a97/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTBUSINESS_VOL_A64FRE_el-gr.esd)
+  - `475bfa03fa7655e35bbaf62c463f8089992b26c5`
+- [ARM64 Windows 11 Enterprise English (United Kingdom) 4.2 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/d67b3f8b-000f-45c2-97f0-475509b91b48/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTBUSINESS_VOL_A64FRE_en-gb.esd)
+  - `c798d5306399a2d502f26cf3fdf2a3509d74cc80`
+- [ARM64 Windows 11 Enterprise English (United States) 4.2 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/f33d02ce-9ad6-4224-90f2-6012845f05f8/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTBUSINESS_VOL_A64FRE_en-us.esd)
+  - `a67698c3b2988dc7fbd38063875a14b5d2e2c9ee`
+- [ARM64 Windows 11 Enterprise Spanish (Spain) 4.2 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/69932664-7b6d-4dd8-be38-86fff6a42656/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTBUSINESS_VOL_A64FRE_es-es.esd)
+  - `73fbb3b8a5f1e92746139c6269dfcfe6ff55bab1`
+- [ARM64 Windows 11 Enterprise Spanish (Mexico) 4.1 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/6c46c54b-c54b-48f3-b8a2-83b4d6bf2f54/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTBUSINESS_VOL_A64FRE_es-mx.esd)
+  - `1d6ff9259b3a276ac4ca9fbf7a742778871173dd`
+- [ARM64 Windows 11 Enterprise Estonian (Estonia) 4.1 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/dc975eec-a51a-4f3f-a71e-55f5d5e20596/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTBUSINESS_VOL_A64FRE_et-ee.esd)
+  - `e2e51442cae932ac0471c4b58df34a52aae6c4d9`
+- [ARM64 Windows 11 Enterprise Finnish (Finland) 4.1 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/6c4058f1-4ebf-4f49-8266-7e7bd5d85b0b/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTBUSINESS_VOL_A64FRE_fi-fi.esd)
+  - `b5ea02475a7c5c7458aaa9fa55e8ff08219d3673`
+- [ARM64 Windows 11 Enterprise French (Canada) 4.1 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/ae5ac94f-6714-411d-8e95-e4bd152bad4c/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTBUSINESS_VOL_A64FRE_fr-ca.esd)
+  - `fd40e5f448401bae16c189827deeb8f3982cf51b`
+- [ARM64 Windows 11 Enterprise French (France) 4.2 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/7072e98f-fc0c-426d-b867-bb36fda2ece1/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTBUSINESS_VOL_A64FRE_fr-fr.esd)
+  - `3b5ea3cf8454b93b3ce4ca6368333fba7d99f6a1`
+- [ARM64 Windows 11 Enterprise Hebrew (Israel) 4.1 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/5eac75a3-e98e-459f-84f5-125ed92b7627/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTBUSINESS_VOL_A64FRE_he-il.esd)
+  - `9fa43ad8d4023e6903337fd337fbc60d95da36a8`
+- [ARM64 Windows 11 Enterprise Croatian (Croatia) 4.0 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/09be525b-2e34-46e1-8d1b-9839b6fd0f05/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTBUSINESS_VOL_A64FRE_hr-hr.esd)
+  - `913c252d7b4d339b15a2d218d0e40a563d0b8f99`
+- [ARM64 Windows 11 Enterprise Hungarian (Hungary) 4.1 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/8edc3adf-f183-498e-b3a0-7f7f0ae1e5c5/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTBUSINESS_VOL_A64FRE_hu-hu.esd)
+  - `d6f2d781055ae1dfcac564e06b2de2a98974e904`
+- [ARM64 Windows 11 Enterprise Italian (Italy) 4.1 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/66a61841-e845-4a71-a68d-1975cf1831b3/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTBUSINESS_VOL_A64FRE_it-it.esd)
+  - `e022ac3d50ccd9ec8cac24453232a86e3bf741ad`
+- [ARM64 Windows 11 Enterprise Japanese (Japan) 4.3 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/87407d35-ad85-4851-a2b3-fb3e9cdbd166/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTBUSINESS_VOL_A64FRE_ja-jp.esd)
+  - `9e923a145aa8a0fcb17a9cdf8b5190673e57c28e`
+- [ARM64 Windows 11 Enterprise Korean (Korea) 4.2 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/ce86e9db-120e-41c8-b23e-e526b81894a2/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTBUSINESS_VOL_A64FRE_ko-kr.esd)
+  - `344823209114eae2c84e0833e9a3483d30c2efb8`
+- [ARM64 Windows 11 Enterprise Lithuanian (Lithuania) 4.0 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/c2aa81f4-ad96-457a-a751-9127620437ed/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTBUSINESS_VOL_A64FRE_lt-lt.esd)
+  - `2da80a631c46ae33825356185ec1b86dcda722dc`
+- [ARM64 Windows 11 Enterprise Latvian (Latvia) 4.0 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/c5aec10f-67de-4f71-862e-2d8ac7093aa3/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTBUSINESS_VOL_A64FRE_lv-lv.esd)
+  - `03bb808bdaa05db7138cfe5398e3550fec2db749`
+- [ARM64 Windows 11 Enterprise Norwegian Bokmål (Norway) 4.1 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/6021af08-b1c2-4c41-bd5c-f85bb4698e4c/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTBUSINESS_VOL_A64FRE_nb-no.esd)
+  - `5c3ac2861ca30c6a4ebc1d2ecd3f62f6ef5b5b69`
+- [ARM64 Windows 11 Enterprise Dutch (Netherlands) 4.1 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/60f27bdf-4de5-4dfe-88da-e18fbcfa3efe/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTBUSINESS_VOL_A64FRE_nl-nl.esd)
+  - `2569a336d66070a07e202dff496c16202e3b2ca6`
+- [ARM64 Windows 11 Enterprise Polish (Poland) 4.1 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/2718454b-2dfc-42c8-b730-8c304227304d/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTBUSINESS_VOL_A64FRE_pl-pl.esd)
+  - `e3a6205dc9906511e78c73ff50a93c94edb2a6ad`
+- [ARM64 Windows 11 Enterprise Portuguese (Brazil) 4.1 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/faa0cca6-8ba2-4d6b-873c-3582f58b808d/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTBUSINESS_VOL_A64FRE_pt-br.esd)
+  - `e711df6b334bc13ce5c11e0d224df93772ed28ff`
+- [ARM64 Windows 11 Enterprise Portuguese (Portugal) 4.1 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/44f611a5-4656-412a-b331-9466b82e8f18/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTBUSINESS_VOL_A64FRE_pt-pt.esd)
+  - `950289c3866d794a82a06e75c91ea02dd7a57a85`
+- [ARM64 Windows 11 Enterprise Romanian (Romania) 4.0 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/7d392de0-f859-480c-ad74-abb7747bb881/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTBUSINESS_VOL_A64FRE_ro-ro.esd)
+  - `0628e1f2ff02c43d91b62eb17d84ae01624ee0a2`
+- [ARM64 Windows 11 Enterprise Russian (Russia) 4.1 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/4dc40877-5ddc-422a-869b-9bdb103d08be/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTBUSINESS_VOL_A64FRE_ru-ru.esd)
+  - `395c301c085f345c1d5e5288ff84ca8b3602d34a`
+- [ARM64 Windows 11 Enterprise Slovak (Slovakia) 4.1 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/a5476eb1-4eb8-4b41-8de2-b62db506db86/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTBUSINESS_VOL_A64FRE_sk-sk.esd)
+  - `f5b5ad9494c5a15533a60de8170aa7e79e4b3d49`
+- [ARM64 Windows 11 Enterprise Slovenian (Slovenia) 4.1 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/f20276f0-87ce-41d8-bd8b-c7497fa306d4/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTBUSINESS_VOL_A64FRE_sl-si.esd)
+  - `bd83f8da6879e0aa2a911ec4c491a06f7223065b`
+- [ARM64 Windows 11 Enterprise Serbian (Latin, Serbia) 4.1 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/6db7d500-10eb-4dbe-a78e-38b75b098371/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTBUSINESS_VOL_A64FRE_sr-latn-rs.esd)
+  - `b8dea81beb74d82779e15fdf867bf12327ef8292`
+- [ARM64 Windows 11 Enterprise Swedish (Sweden) 4.1 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/2c96ade4-5ad0-4141-b033-bf3af39518aa/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTBUSINESS_VOL_A64FRE_sv-se.esd)
+  - `4edec98216c887ed121276d01f12eaa1cccdfa8e`
+- [ARM64 Windows 11 Enterprise Thai (Thailand) 4.1 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/20abe7dd-aaa1-421d-875d-5a10764caaf6/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTBUSINESS_VOL_A64FRE_th-th.esd)
+  - `7e1e7d2596a4ffccdd13237d2c0bf072af2a40a4`
+- [ARM64 Windows 11 Enterprise Turkish (Türkiye) 4.1 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/aae9d7bc-0e9a-4eb7-b050-db86ed7f2588/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTBUSINESS_VOL_A64FRE_tr-tr.esd)
+  - `d1b63c08ab9f36cedb5ac3b28cdf77fff35a97ed`
+- [ARM64 Windows 11 Enterprise Ukrainian (Ukraine) 4.1 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/f540939c-95ed-4fc1-a360-d8beb2376e23/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTBUSINESS_VOL_A64FRE_uk-ua.esd)
+  - `08c265730df5021bb480e7594f66fbdd6b430df7`
+- [ARM64 Windows 11 Enterprise Chinese (China) 4.3 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/eb037736-ab6d-4904-8760-a4cc8180641f/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTBUSINESS_VOL_A64FRE_zh-cn.esd)
+  - `4adc1d5266d2c0fff5f81aba665acb2928ef9332`
+- [ARM64 Windows 11 Enterprise Chinese (Taiwan) 4.3 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/878604f3-2b0a-4325-b463-a0554879406c/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTBUSINESS_VOL_A64FRE_zh-tw.esd)
+  - `d0d5141fb08ee21eec39a43a6993cca0d3b5e3cb`
+- [ARM64 Windows 11 Arabic (Saudi Arabia) 4.2 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/b5103e1b-986f-4e22-aa36-f6766749953a/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTCONSUMER_RET_A64FRE_ar-sa.esd)
+  - `31b37f282fa1fe5b8ea8cb2613069ce624230013`
+- [ARM64 Windows 11 Bulgarian (Bulgaria) 4.1 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/6334079e-05bb-459f-ba53-a3b0fe8ce08a/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTCONSUMER_RET_A64FRE_bg-bg.esd)
+  - `f348530db6ad8beef2de6bdddc9c898022206114`
+- [ARM64 Windows 11 Czech (Czechia) 4.1 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/cc36404e-a905-4b91-b455-1d369b3ecad9/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTCONSUMER_RET_A64FRE_cs-cz.esd)
+  - `9fdb775ef251bc609768dd702cc84289bfe83aea`
+- [ARM64 Windows 11 Danish (Denmark) 4.1 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/bba738b3-d74c-4a8e-a70f-aa8ea55a481c/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTCONSUMER_RET_A64FRE_da-dk.esd)
+  - `c5339e3a8433ce108ac31b356634adaf44867fa5`
+- [ARM64 Windows 11 German (Germany) 4.2 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/22492262-fd06-4066-b72e-76303e1c759b/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTCONSUMER_RET_A64FRE_de-de.esd)
+  - `cd79755fe0c0fa26279959bc2296739e3c21b722`
+- [ARM64 Windows 11 Greek (Greece) 4.1 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/4c7edfa4-cb2f-4126-ab9e-21d42bc8e0b4/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTCONSUMER_RET_A64FRE_el-gr.esd)
+  - `0ea69a8413adf0c74d159b8163c25828e8f3148d`
+- [ARM64 Windows 11 English (United Kingdom) 4.2 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/a4ae27f6-775a-4baa-9c78-3916ad4fe1af/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTCONSUMER_RET_A64FRE_en-gb.esd)
+  - `cb24b5e148b15ff1af84d0b56b5cfe5eafbc32df`
+- [ARM64 Windows 11 English (United States) 4.2 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/37acc189-7f4f-4e07-976c-1cf0a099ec79/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTCONSUMER_RET_A64FRE_en-us.esd)
+  - `c78fd344e845d3b17cb91c40bf4a856459da1b6c`
+- [ARM64 Windows 11 Spanish (Spain) 4.2 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/9ddff406-8f94-4f17-b88a-09e19d113639/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTCONSUMER_RET_A64FRE_es-es.esd)
+  - `634d9a0f0d797ed08d68b423ef1503673b67f681`
+- [ARM64 Windows 11 Spanish (Mexico) 4.2 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/b7acff92-c230-4b2d-a5b3-99031912bff0/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTCONSUMER_RET_A64FRE_es-mx.esd)
+  - `ef44e25be011aff8ff47b31c6c9e88362e47bc3a`
+- [ARM64 Windows 11 Estonian (Estonia) 4.1 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/bb21218e-c007-4463-bb76-ab89616243fb/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTCONSUMER_RET_A64FRE_et-ee.esd)
+  - `2ddef49eb151ef8b56507d1650e9c76e42c7eac5`
+- [ARM64 Windows 11 Finnish (Finland) 4.1 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/2a7fd754-f1a9-4085-ac5c-2364205e5aea/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTCONSUMER_RET_A64FRE_fi-fi.esd)
+  - `5b5115d8b1a61f121b54dd3517297677fdc4cd58`
+- [ARM64 Windows 11 French (Canada) 4.2 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/1aebef38-b4ec-4728-afc5-1804c88f7250/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTCONSUMER_RET_A64FRE_fr-ca.esd)
+  - `2ed62e435d702f41fd22523b04f6eee3a8ec5ea7`
+- [ARM64 Windows 11 French (France) 4.2 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/3224a028-0b8d-4ae3-8beb-1999f8c15e17/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTCONSUMER_RET_A64FRE_fr-fr.esd)
+  - `2942b1baa8943efeca01a1389324049a7aac2ed5`
+- [ARM64 Windows 11 Hebrew (Israel) 4.2 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/550154c9-da28-46ad-a8c3-3d23f16d2f78/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTCONSUMER_RET_A64FRE_he-il.esd)
+  - `2e6eeec6e8cbc6c2d1046db2ae76cbce398c945a`
+- [ARM64 Windows 11 Croatian (Croatia) 4.1 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/8e491d88-dd6d-482e-a0bd-a92df8651ed7/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTCONSUMER_RET_A64FRE_hr-hr.esd)
+  - `deed518d02cd5facfb5c745120b9e692beb9cf4b`
+- [ARM64 Windows 11 Hungarian (Hungary) 4.1 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/033bbabf-84eb-402b-a59b-83f3ecae9966/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTCONSUMER_RET_A64FRE_hu-hu.esd)
+  - `cb6d5396b92b268d7eec594f1ffdbfd957f8d893`
+- [ARM64 Windows 11 Italian (Italy) 4.1 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/12557fac-8296-482d-b35d-2ecd5bd99ff5/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTCONSUMER_RET_A64FRE_it-it.esd)
+  - `0b7f28055c397504649cecbf66316fc67abb6764`
+- [ARM64 Windows 11 Japanese (Japan) 4.3 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/e4ee0bee-dc13-4e01-96b8-5f07d3701add/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTCONSUMER_RET_A64FRE_ja-jp.esd)
+  - `75faee4daebb639122490d2f8b6992505f09b99c`
+- [ARM64 Windows 11 Korean (Korea) 4.2 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/f4638aae-3f07-425c-918f-4bc8e8a6e453/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTCONSUMER_RET_A64FRE_ko-kr.esd)
+  - `4a8ec82a9bce812c0234b1683ea83cbcbd4994ec`
+- [ARM64 Windows 11 Lithuanian (Lithuania) 4.1 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/12c76e41-df3d-4b66-a3f3-0c38dc40fdc8/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTCONSUMER_RET_A64FRE_lt-lt.esd)
+  - `d9925119024ab992d2eabe6ea766f4f83957dc95`
+- [ARM64 Windows 11 Latvian (Latvia) 4.1 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/f2aa1df2-2218-48b7-8497-4368c0f89f97/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTCONSUMER_RET_A64FRE_lv-lv.esd)
+  - `52c29051777caf805be49f8b7fd811d1bf747a8f`
+- [ARM64 Windows 11 Norwegian Bokmål (Norway) 4.1 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/35451f6f-4cfd-4a4f-bb74-f6aa0fad9894/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTCONSUMER_RET_A64FRE_nb-no.esd)
+  - `4ad3dde6bdb31a7e906f26604d6482f9a6bf74d3`
+- [ARM64 Windows 11 Dutch (Netherlands) 4.1 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/3e937325-a994-434c-9cbe-35235108d4fa/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTCONSUMER_RET_A64FRE_nl-nl.esd)
+  - `41ee3ce84abef1b69f2c3e659316dffd0047b37e`
+- [ARM64 Windows 11 Polish (Poland) 4.1 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/d10ec2a4-3ccd-48bd-be39-26912b6cd040/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTCONSUMER_RET_A64FRE_pl-pl.esd)
+  - `ea3b8998b3d5960a36a86a4de31069ee558a1b7c`
+- [ARM64 Windows 11 Portuguese (Brazil) 4.2 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/e5224c2d-a7db-47c4-93af-32e13f3746f7/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTCONSUMER_RET_A64FRE_pt-br.esd)
+  - `9c8fd2a770acd3a2a4023a90b5da17955db5dc60`
+- [ARM64 Windows 11 Portuguese (Portugal) 4.2 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/2b6cae3d-5840-49b9-8e63-ffbea8ea6a6f/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTCONSUMER_RET_A64FRE_pt-pt.esd)
+  - `4fabc8138158e1670512b2c14c680fd8238ecbef`
+- [ARM64 Windows 11 Romanian (Romania) 4.1 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/e6ab7bc3-424f-4654-9fa3-6c3a56b2ade0/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTCONSUMER_RET_A64FRE_ro-ro.esd)
+  - `e5997efc66f04e7711be585d911c35d3afa9ab17`
+- [ARM64 Windows 11 Russian (Russia) 4.2 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/eddfd255-61ce-43f1-a421-df36036ed145/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTCONSUMER_RET_A64FRE_ru-ru.esd)
+  - `68b596fd24e692176d6ee18ec3fd5f2a75b4658b`
+- [ARM64 Windows 11 Slovak (Slovakia) 4.1 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/1f68da14-0c2c-4134-83a3-45d1fb997609/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTCONSUMER_RET_A64FRE_sk-sk.esd)
+  - `4857a4cafdcacfa33465c4ce815e7a8113c1d8c0`
+- [ARM64 Windows 11 Slovenian (Slovenia) 4.1 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/f15994b5-4f59-4b47-947c-1878425744ff/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTCONSUMER_RET_A64FRE_sl-si.esd)
+  - `3b1aa9ff849b45fa6692f7630a5afc923770a2a7`
+- [ARM64 Windows 11 Serbian (Latin, Serbia) 4.1 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/99b074e6-7b6a-42ea-9312-10ceb688809a/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTCONSUMER_RET_A64FRE_sr-latn-rs.esd)
+  - `32d8ad440484ea115d63e149e2af0cfbccb710d3`
+- [ARM64 Windows 11 Swedish (Sweden) 4.1 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/7d5103a9-4c92-4e33-835c-d105092a739c/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTCONSUMER_RET_A64FRE_sv-se.esd)
+  - `5afe286e17e850e6b0b56fcb681c254015653a6f`
+- [ARM64 Windows 11 Thai (Thailand) 4.1 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/78b7e774-8680-4a51-a0f3-877db37754b6/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTCONSUMER_RET_A64FRE_th-th.esd)
+  - `ef6421d2cc3691856e7bb0d4cc9df32a01bf805c`
+- [ARM64 Windows 11 Turkish (Türkiye) 4.1 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/d38a4423-5b13-494d-a199-b19effb7873d/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTCONSUMER_RET_A64FRE_tr-tr.esd)
+  - `7d0e82e7633b2e688b387c1e67b96e0aa5d7fe0e`
+- [ARM64 Windows 11 Ukrainian (Ukraine) 4.1 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/d960ca79-7a7e-42e5-8146-5558a97b78b4/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTCONSUMER_RET_A64FRE_uk-ua.esd)
+  - `a72cfd46982f33b78536505b1c15ec729868b8e3`
+- [ARM64 Windows 11 Chinese (China) 4.4 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/e8cb0820-53b3-437e-b13d-e4f133a4a686/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTCONSUMER_RET_A64FRE_zh-cn.esd)
+  - `dc07b7584a6056434c36d9d06f198d8df0235383`
+- [ARM64 Windows 11 Chinese (Taiwan) 4.3 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/5c6e1f2f-087e-45c4-a3c6-59745c776a74/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTCONSUMER_RET_A64FRE_zh-tw.esd)
+  - `d2bd29d2e839ada7c25dbb8befb17dcabc645adb`
+- [x64 Windows 11 家庭中文版 Chinese (China) 4.3 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/be67ff0f-9dbf-4921-a210-1ef7dcf32f57/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTCHINA_RET_x64FRE_zh-cn.esd)
+  - `702d814c27ade4aae380088b1e78b228b7325ee4`
+- [x64 Windows 11 Enterprise Arabic (Saudi Arabia) 4.2 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/0ef8456a-f275-49ff-bcf1-73a8d502a05b/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTBUSINESS_VOL_x64FRE_ar-sa.esd)
+  - `0fa397e943fd6db4b904baf10a3dcfdb676d4472`
+- [x64 Windows 11 Enterprise Bulgarian (Bulgaria) 4.2 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/87820fb7-b471-4192-bbe8-f333da49156c/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTBUSINESS_VOL_x64FRE_bg-bg.esd)
+  - `540f70e6245188ff413becc6e69f14a619926ee2`
+- [x64 Windows 11 Enterprise Czech (Czechia) 4.2 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/afa50d71-fbad-4ac9-8512-57681fd63e6d/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTBUSINESS_VOL_x64FRE_cs-cz.esd)
+  - `04419fcff7c2877dca5a04f523adbd238f45bbf5`
+- [x64 Windows 11 Enterprise Danish (Denmark) 4.2 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/7faa4499-933f-415e-8abc-047049d47898/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTBUSINESS_VOL_x64FRE_da-dk.esd)
+  - `455f2fdb1c937fdc42fbdada925d9a7c3be03ece`
+- [x64 Windows 11 Enterprise German (Germany) 4.3 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/112bf3fd-8783-42b2-a162-f1b040b467d2/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTBUSINESS_VOL_x64FRE_de-de.esd)
+  - `08e47df96199a58160e23a5182fc3273d1e7e2ab`
+- [x64 Windows 11 Enterprise Greek (Greece) 4.2 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/c87732a6-5950-4439-8a47-be1f3c666dfc/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTBUSINESS_VOL_x64FRE_el-gr.esd)
+  - `87fc413f095ed328455bc43f5a506d28858905c6`
+- [x64 Windows 11 Enterprise English (United Kingdom) 4.3 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/d9daa4a8-9294-4ee8-bfab-19bb472d9919/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTBUSINESS_VOL_x64FRE_en-gb.esd)
+  - `c656c9a7ea33bfd6ff098609cc11d44cf8f60fd4`
+- [x64 Windows 11 Enterprise English (United States) 4.3 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/c7723d5e-7036-47e9-8384-860157d39b2f/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTBUSINESS_VOL_x64FRE_en-us.esd)
+  - `e64ace7b54ecbb73c7c1bfad165a50e1776da30b`
+- [x64 Windows 11 Enterprise Spanish (Spain) 4.3 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/812b8b0e-7f86-4555-98a5-c4ba4a57e09f/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTBUSINESS_VOL_x64FRE_es-es.esd)
+  - `1d528f09fd3ed616a46228425632136d91c9ff20`
+- [x64 Windows 11 Enterprise Spanish (Mexico) 4.1 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/ba4d8110-0420-4503-ada2-d60784ed30da/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTBUSINESS_VOL_x64FRE_es-mx.esd)
+  - `0ea6c3d13e3fdec3ab3ed7651abebc31bab30b2d`
+- [x64 Windows 11 Enterprise Estonian (Estonia) 4.2 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/bc05f25e-d4e1-4355-98b5-2a5d0137dee1/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTBUSINESS_VOL_x64FRE_et-ee.esd)
+  - `144aad984b3fbea9411155f5683ffd4d4c46f839`
+- [x64 Windows 11 Enterprise Finnish (Finland) 4.2 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/dfeb5185-6a83-4b24-8e6b-cb3afbf14095/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTBUSINESS_VOL_x64FRE_fi-fi.esd)
+  - `b2551dbd51361dd8ee2dc532c419a9cdc3548b40`
+- [x64 Windows 11 Enterprise French (Canada) 4.2 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/76cb0ed5-ec39-4e8e-becf-3155e2a4a67c/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTBUSINESS_VOL_x64FRE_fr-ca.esd)
+  - `aacb70d231e0f00c524249af1d84dc65d1ba3230`
+- [x64 Windows 11 Enterprise French (France) 4.3 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/b62641bc-cc6a-4228-b0b9-2daebe7c2880/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTBUSINESS_VOL_x64FRE_fr-fr.esd)
+  - `a22742719d1022c49bc50cff945a95bacb32e64e`
+- [x64 Windows 11 Enterprise Hebrew (Israel) 4.2 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/b4646dac-d726-4d1a-995a-8711bf6cfd17/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTBUSINESS_VOL_x64FRE_he-il.esd)
+  - `339f1b26b21e50385e38eaf81d18d06ff3543bde`
+- [x64 Windows 11 Enterprise Croatian (Croatia) 4.2 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/63a45e06-7c4f-429a-a929-3857e11f2d3d/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTBUSINESS_VOL_x64FRE_hr-hr.esd)
+  - `ad6673a2669f9b6c7b665564c124bb245da92384`
+- [x64 Windows 11 Enterprise Hungarian (Hungary) 4.2 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/e19ba4bb-c1c8-464c-b331-4f44c54b7b42/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTBUSINESS_VOL_x64FRE_hu-hu.esd)
+  - `1e1174f93d9f2a81be66c543bcd591d5346299f4`
+- [x64 Windows 11 Enterprise Italian (Italy) 4.3 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/ac13df4b-8790-420b-b69d-b71d44ff7bcf/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTBUSINESS_VOL_x64FRE_it-it.esd)
+  - `4dbce251f5ae9b8fa0026e709031f834b686b6d7`
+- [x64 Windows 11 Enterprise Japanese (Japan) 4.3 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/691e3da1-44e0-4a91-9787-ee7d12497a0c/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTBUSINESS_VOL_x64FRE_ja-jp.esd)
+  - `01f098f23a1701995501500d2488d92ae79a7931`
+- [x64 Windows 11 Enterprise Korean (Korea) 4.2 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/ad0a2058-b958-479e-a34d-a52d6245a630/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTBUSINESS_VOL_x64FRE_ko-kr.esd)
+  - `809ed2255e8f5eca9ecc052eb52414a4e83c149e`
+- [x64 Windows 11 Enterprise Lithuanian (Lithuania) 4.2 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/87d87bae-26e1-4202-a8f9-fe45a25ead0d/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTBUSINESS_VOL_x64FRE_lt-lt.esd)
+  - `96337caf75a1c1a4b464b623918e8fb825cb0796`
+- [x64 Windows 11 Enterprise Latvian (Latvia) 4.2 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/808b22c4-82f4-4dc5-9b7d-6a949dc4bd0f/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTBUSINESS_VOL_x64FRE_lv-lv.esd)
+  - `0b3c80a8a0dc610c1f563f26d36712b56bec170a`
+- [x64 Windows 11 Enterprise Norwegian Bokmål (Norway) 4.2 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/477dabaf-4fdb-4cd9-972b-ae8ff93cb2a5/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTBUSINESS_VOL_x64FRE_nb-no.esd)
+  - `c8c8898991d827840d1bf5ad881c306d040f2108`
+- [x64 Windows 11 Enterprise Dutch (Netherlands) 4.2 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/4f80bc34-cd19-4a19-8386-99a494d56529/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTBUSINESS_VOL_x64FRE_nl-nl.esd)
+  - `f4c0a35b198052c8d379a58eef183e2373dc8d81`
+- [x64 Windows 11 Enterprise Polish (Poland) 4.2 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/45af536d-33ce-4f0e-986c-b32e8de84713/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTBUSINESS_VOL_x64FRE_pl-pl.esd)
+  - `ac7dff9c4ac0bfde23308e9585fa76077b33de90`
+- [x64 Windows 11 Enterprise Portuguese (Brazil) 4.2 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/a5597d5d-40ee-40bd-9cee-049214cc1fb3/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTBUSINESS_VOL_x64FRE_pt-br.esd)
+  - `c72bbe7d2f52b558d139ef644e48479059f746b2`
+- [x64 Windows 11 Enterprise Portuguese (Portugal) 4.2 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/b9ac4d97-e935-49cf-9272-276ace003cac/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTBUSINESS_VOL_x64FRE_pt-pt.esd)
+  - `116f59843f0c170421699137d89f2df22cdc2e07`
+- [x64 Windows 11 Enterprise Romanian (Romania) 4.2 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/68361c0b-a399-4dfe-a9d8-fce2a3c07b7b/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTBUSINESS_VOL_x64FRE_ro-ro.esd)
+  - `4967d5dd73637864eceb2103cfe5110a763eecf3`
+- [x64 Windows 11 Enterprise Russian (Russia) 4.2 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/ad2af8f3-88be-480f-82c6-79d6a7283555/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTBUSINESS_VOL_x64FRE_ru-ru.esd)
+  - `990853a22fe58e7ac2ff281c6eb9128bdc002d6d`
+- [x64 Windows 11 Enterprise Slovak (Slovakia) 4.2 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/c9cfa5e5-4642-4eb6-85e9-8a6f9775563c/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTBUSINESS_VOL_x64FRE_sk-sk.esd)
+  - `a7df1b7209d8491854bd7866aca1cec857ac5bd3`
+- [x64 Windows 11 Enterprise Slovenian (Slovenia) 4.2 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/cd6be248-fbfa-450b-9e54-49518b7d0ca7/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTBUSINESS_VOL_x64FRE_sl-si.esd)
+  - `cd191b84d556a06ac9e3dfe2739baee4b4031ae6`
+- [x64 Windows 11 Enterprise Serbian (Latin, Serbia) 4.1 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/cf149e13-02c8-465b-a692-f2a56a258b7a/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTBUSINESS_VOL_x64FRE_sr-latn-rs.esd)
+  - `01d7135f75b486dd10c4389ba1e61691af4954b6`
+- [x64 Windows 11 Enterprise Swedish (Sweden) 4.2 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/77deef13-f518-4964-b10b-d34b3223cdd8/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTBUSINESS_VOL_x64FRE_sv-se.esd)
+  - `f5313140aada53c957f2e2594a74f9b43a48e212`
+- [x64 Windows 11 Enterprise Thai (Thailand) 4.1 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/c02919cb-3cd2-48f1-bf8b-7f0cda524b71/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTBUSINESS_VOL_x64FRE_th-th.esd)
+  - `c3e3e17a357a875236d1fef996c22664533f17a7`
+- [x64 Windows 11 Enterprise Turkish (Türkiye) 4.1 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/b6f81118-7f9d-40dd-9d32-012724220a2e/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTBUSINESS_VOL_x64FRE_tr-tr.esd)
+  - `bbe63c31d586e530d35ad37430dcdca327aae813`
+- [x64 Windows 11 Enterprise Ukrainian (Ukraine) 4.1 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/82afa2d2-0ac9-472d-bc03-4fd54a73c587/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTBUSINESS_VOL_x64FRE_uk-ua.esd)
+  - `cd4626186bc86073eab88c1bc449ee7859859a14`
+- [x64 Windows 11 Enterprise Chinese (China) 4.4 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/471ba147-8ecc-4062-b858-1ce5b706b822/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTBUSINESS_VOL_x64FRE_zh-cn.esd)
+  - `1f100bb1a02e66e04401dbea6de91687160adb35`
+- [x64 Windows 11 Enterprise Chinese (Taiwan) 4.3 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/d1f1f2c4-80be-4e95-8645-234a1289c19f/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTBUSINESS_VOL_x64FRE_zh-tw.esd)
+  - `d38b8b7c6d18015a2259678e5f53fb4cf419bb54`
+- [x64 Windows 11 Arabic (Saudi Arabia) 4.2 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/f78643f1-0518-4afd-8286-dd27dc4d7df3/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTCONSUMER_RET_x64FRE_ar-sa.esd)
+  - `5116de0d31d5a4dcb597494fe9ad8cf9ee7375e8`
+- [x64 Windows 11 Bulgarian (Bulgaria) 4.2 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/8d8df315-30dd-4688-bc73-8e787f26a271/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTCONSUMER_RET_x64FRE_bg-bg.esd)
+  - `8e7ac0aa9d3ca5545ad933a4c51c53b87f38c3a6`
+- [x64 Windows 11 Czech (Czechia) 4.2 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/fa0ec28b-e6ce-423f-b331-c45d9bdfece7/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTCONSUMER_RET_x64FRE_cs-cz.esd)
+  - `af438620714a052d8f1724566bf63ee7b4ecef3c`
+- [x64 Windows 11 Danish (Denmark) 4.3 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/383337f0-a87a-45e7-ade5-11bea5d64c32/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTCONSUMER_RET_x64FRE_da-dk.esd)
+  - `3727e874d1ca1b77a9c5a202f8d2fe531df700a3`
+- [x64 Windows 11 German (Germany) 4.4 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/1094408c-5ad0-4d3c-aaa0-db1e353ec0d2/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTCONSUMER_RET_x64FRE_de-de.esd)
+  - `f1f75016fdee2d81d220be4ac2876f6f564e780f`
+- [x64 Windows 11 Greek (Greece) 4.3 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/dd6ed623-5b82-4e48-8257-e45d3f80f1b7/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTCONSUMER_RET_x64FRE_el-gr.esd)
+  - `4b7ea7015284810c2707ac2fa1922ff5426ee3c5`
+- [x64 Windows 11 English (United Kingdom) 4.4 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/590d545a-fe7d-4885-9ae0-2f59b379f417/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTCONSUMER_RET_x64FRE_en-gb.esd)
+  - `1d405e937b62276da3db0f2217d3793be8fa6aab`
+- [x64 Windows 11 English (United States) 4.4 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/009d9a0d-8e1a-45ce-9540-21377534803e/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTCONSUMER_RET_x64FRE_en-us.esd)
+  - `8ceab2838f8e90180ac7490e8752157fb05588cb`
+- [x64 Windows 11 Spanish (Spain) 4.4 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/ce1c4ba7-fef5-490b-808d-2765a0cdc8bf/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTCONSUMER_RET_x64FRE_es-es.esd)
+  - `418a62e394b3a5a2e624bb6108fab1a8655e89a4`
+- [x64 Windows 11 Spanish (Mexico) 4.2 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/783fb93c-103d-4033-bc42-754200a1809a/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTCONSUMER_RET_x64FRE_es-mx.esd)
+  - `4cd65283a53a06323b16146ecded4806c18fecd8`
+- [x64 Windows 11 Estonian (Estonia) 4.2 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/c8fe1b0b-96e4-4b48-8f06-65fe5cb44db2/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTCONSUMER_RET_x64FRE_et-ee.esd)
+  - `a2e43ff4fa538cb0f5b051a76e29f3b2c2c9394d`
+- [x64 Windows 11 Finnish (Finland) 4.2 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/eadac907-8bd3-449b-8739-422740c109ef/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTCONSUMER_RET_x64FRE_fi-fi.esd)
+  - `b8d51660eca73f36b93545b0eafbd5e11a350538`
+- [x64 Windows 11 French (Canada) 4.2 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/4cf2aec8-3e5f-4c69-a1e2-6e0ad6c891d9/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTCONSUMER_RET_x64FRE_fr-ca.esd)
+  - `b69c4f1ac32b0063fcb61c605908e9a0cf48d3ac`
+- [x64 Windows 11 French (France) 4.4 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/b5241abf-858c-4996-a2cb-7e95dbbcb46b/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTCONSUMER_RET_x64FRE_fr-fr.esd)
+  - `4ef9aa06fc2bacf12d24254fda0258217aa120b1`
+- [x64 Windows 11 Hebrew (Israel) 4.2 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/7ebf6192-27bf-426e-b568-2fb914331b1a/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTCONSUMER_RET_x64FRE_he-il.esd)
+  - `1f4d1ff933050d8206021b695fb656492456ef21`
+- [x64 Windows 11 Croatian (Croatia) 4.2 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/d4572ef6-e14d-4d66-9573-055ee48c1563/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTCONSUMER_RET_x64FRE_hr-hr.esd)
+  - `c84ab470d148f9dfe65cc4788283b805fe0256dc`
+- [x64 Windows 11 Hungarian (Hungary) 4.2 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/f8e41d62-d02f-4aa5-b99d-c8996fcfe907/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTCONSUMER_RET_x64FRE_hu-hu.esd)
+  - `eb513b0614beb3b4bef6aaa148059578b7787c9f`
+- [x64 Windows 11 Italian (Italy) 4.3 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/8e2a73a4-df3e-4b27-bc6c-7a3d8af1eb86/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTCONSUMER_RET_x64FRE_it-it.esd)
+  - `5e906ef6c749075ed8b8bb82d2a40249d87ac0d9`
+- [x64 Windows 11 Japanese (Japan) 4.4 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/cedda5b0-753d-4395-821a-edb03ead2eaf/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTCONSUMER_RET_x64FRE_ja-jp.esd)
+  - `3cf9fe9e71be826a7d35d9ad7f4baedf2fb575d6`
+- [x64 Windows 11 Korean (Korea) 4.2 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/68319007-ebd8-401b-bece-299f3cb76357/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTCONSUMER_RET_x64FRE_ko-kr.esd)
+  - `2bb9bc4cb05b166d8efb183ba19d462ec5b5e73d`
+- [x64 Windows 11 Lithuanian (Lithuania) 4.2 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/8b3b958f-c31b-4435-af01-963c071fd6bd/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTCONSUMER_RET_x64FRE_lt-lt.esd)
+  - `82f4441ac23da90fe4c9e03a6006f1cf25c99244`
+- [x64 Windows 11 Latvian (Latvia) 4.2 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/62c42b97-629e-42df-b47f-7adc6846e7f6/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTCONSUMER_RET_x64FRE_lv-lv.esd)
+  - `f8493672f9b040c5598496ad760d200b16d28f84`
+- [x64 Windows 11 Norwegian Bokmål (Norway) 4.2 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/5ebb6cfc-a6eb-4568-812c-b1ac1db6b4c1/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTCONSUMER_RET_x64FRE_nb-no.esd)
+  - `4270153060d6315e720c5d60b8bc1d0fca47da19`
+- [x64 Windows 11 Dutch (Netherlands) 4.2 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/04ed27df-b0ec-4456-8a0e-ca593db09103/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTCONSUMER_RET_x64FRE_nl-nl.esd)
+  - `52e922152016a6415145232f94537478612f6f61`
+- [x64 Windows 11 Polish (Poland) 4.3 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/719abf63-1358-4af8-b408-161f072a8845/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTCONSUMER_RET_x64FRE_pl-pl.esd)
+  - `49247d4050890a76779a4609f1a8dc8ad9f1387c`
+- [x64 Windows 11 Portuguese (Brazil) 4.2 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/bf2f496f-a3ad-477b-9fe9-bbbdd699e8dd/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTCONSUMER_RET_x64FRE_pt-br.esd)
+  - `5434b255e8400091d7d883a18fb104278de5db5c`
+- [x64 Windows 11 Portuguese (Portugal) 4.3 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/6312650c-46ad-4d91-b387-4f6bcc7562c1/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTCONSUMER_RET_x64FRE_pt-pt.esd)
+  - `a147da74826e4e9f27430a7ec67d3ec70c78d5f5`
+- [x64 Windows 11 Romanian (Romania) 4.2 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/81ce81da-9ad4-4c95-a64c-5e92b70261bf/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTCONSUMER_RET_x64FRE_ro-ro.esd)
+  - `63a2e1797a9ee1f354db901942524652b6e8770f`
+- [x64 Windows 11 Russian (Russia) 4.2 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/bada9969-a477-48c5-8b21-fd03bb5013b4/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTCONSUMER_RET_x64FRE_ru-ru.esd)
+  - `920bd57e1512bd3602db9ea4d9f1711fc2ad322b`
+- [x64 Windows 11 Slovak (Slovakia) 4.3 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/886141c5-6ae2-47be-9340-8c1b7991b818/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTCONSUMER_RET_x64FRE_sk-sk.esd)
+  - `6d7c10d21286f7e185c0001ff1d5f0ec4136c6ac`
+- [x64 Windows 11 Slovenian (Slovenia) 4.2 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/2eb5919a-5176-469c-a686-2418530d0348/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTCONSUMER_RET_x64FRE_sl-si.esd)
+  - `09f15849d89ffb15272f5e133d5acad10a8d01c7`
+- [x64 Windows 11 Serbian (Latin, Serbia) 4.2 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/29f638e9-8555-474e-948f-87623348fb58/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTCONSUMER_RET_x64FRE_sr-latn-rs.esd)
+  - `40024a86d647d77fd53183e1db2bd23cf81e7600`
+- [x64 Windows 11 Swedish (Sweden) 4.2 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/4859199d-d5af-4f5a-9bcf-b0919c1aec85/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTCONSUMER_RET_x64FRE_sv-se.esd)
+  - `55e91f8a450019d157eb19239217f1f1032272a0`
+- [x64 Windows 11 Thai (Thailand) 4.2 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/b67b4d5f-cde5-47f8-a5d9-0c8f607c6a4b/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTCONSUMER_RET_x64FRE_th-th.esd)
+  - `33eb097b6e1f7f763d4ad80d5d0843c96fb22cfd`
+- [x64 Windows 11 Turkish (Türkiye) 4.2 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/0dd02215-cd12-4418-9ad7-59dd29b7f20c/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTCONSUMER_RET_x64FRE_tr-tr.esd)
+  - `77b789b2def0a84ac1d858dbc898a43850d4c523`
+- [x64 Windows 11 Ukrainian (Ukraine) 4.2 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/f9fee423-8435-4f8a-8f0f-4bc2f24e56f6/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTCONSUMER_RET_x64FRE_uk-ua.esd)
+  - `534d6016855f38ab94ab082f3e33371c95f0910e`
+- [x64 Windows 11 Chinese (China) 4.5 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/288a1e95-e381-478d-98a6-f40b24da3e15/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTCONSUMER_RET_x64FRE_zh-cn.esd)
+  - `081ccd988df1ac2ceb1f731c974d357b6d113572`
+- [x64 Windows 11 Chinese (Taiwan) 4.4 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/eb17f97e-38f8-47ba-bd4a-f3c7f52bcded/26100.4349.250607-1500.ge_release_svc_refresh_CLIENTCONSUMER_RET_x64FRE_zh-tw.esd)
+  - `818cbfa57b971b4ca7f6375c742dc06b1f89bbad`
+
+## Windows 10 (build 19045.3803)
+
+- [ARM64 Windows 10 Enterprise Arabic (Saudi Arabia) 3.3 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/3f7422e2-8450-47e3-b7b8-06ca6687dbd8/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTBUSINESS_VOL_A64FRE_ar-sa.esd)
+  - `d8e0ac657d4d2076158c03f43203a6182410bf63`
+- [ARM64 Windows 10 Enterprise Bulgarian (Bulgaria) 3.3 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/a3cbaf49-9954-48fc-abc5-b01bfc008b87/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTBUSINESS_VOL_A64FRE_bg-bg.esd)
+  - `7f4cf7a1b52493ed977b8cb0b6e3735869cfbf00`
+- [ARM64 Windows 10 Enterprise Czech (Czechia) 3.3 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/9a2d1e23-7696-4383-ab62-5adc95724e31/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTBUSINESS_VOL_A64FRE_cs-cz.esd)
+  - `6fc7228d10468cbd40e63a03fa705ea980402cbc`
+- [ARM64 Windows 10 Enterprise Danish (Denmark) 3.3 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/62f8bc00-6c79-47c6-b0b4-f8af2b82fb8e/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTBUSINESS_VOL_A64FRE_da-dk.esd)
+  - `6a4052584e2a1f79543546ac05f85502d487bae0`
+- [ARM64 Windows 10 Enterprise German (Germany) 3.4 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/e03960d4-76e3-4db6-9925-fa39400dc046/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTBUSINESS_VOL_A64FRE_de-de.esd)
+  - `3e4b1cc980cf8ac0420951511b12619528a7ad38`
+- [ARM64 Windows 10 Enterprise Greek (Greece) 3.3 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/56cc681d-f663-4a18-acdd-aaee7a1dee45/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTBUSINESS_VOL_A64FRE_el-gr.esd)
+  - `cf0e6e96a756a206ee0d84008419fcaf68432a74`
+- [ARM64 Windows 10 Enterprise English (United Kingdom) 3.3 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/6e87ae54-bbd6-4853-b767-8aa31534dfb6/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTBUSINESS_VOL_A64FRE_en-gb.esd)
+  - `748d2dc6a00ba5e1c0417e72917af73a85ef7af8`
+- [ARM64 Windows 10 Enterprise English (United States) 3.3 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/997354f3-6ffe-4ff0-b2ed-585f526e7321/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTBUSINESS_VOL_A64FRE_en-us.esd)
+  - `8bf949a95bf5e5f5452484ec6d5ea02e99ee3e16`
+- [ARM64 Windows 10 Enterprise Spanish (Spain, International Sort) 3.3 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/6067c19a-33b6-400e-b4bc-903f8cf55441/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTBUSINESS_VOL_A64FRE_es-es.esd)
+  - `f37a581af6626a41e2c4b0fdcf0258ba715877ee`
+- [ARM64 Windows 10 Enterprise Spanish (Mexico) 3.3 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/ed884cb2-1abc-438f-8d27-541797a6d272/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTBUSINESS_VOL_A64FRE_es-mx.esd)
+  - `9c2c5ae1985d7f42f28cebe8889a3562fb52b3df`
+- [ARM64 Windows 10 Enterprise Estonian (Estonia) 3.2 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/aede1396-995a-43f4-94ca-0a87ceafa7dd/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTBUSINESS_VOL_A64FRE_et-ee.esd)
+  - `c94db8b5c4bb3bd4d4320d315485bfed72bab98e`
+- [ARM64 Windows 10 Enterprise Finnish (Finland) 3.3 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/a7bc0d6b-08bd-497a-a31a-6a8989e34325/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTBUSINESS_VOL_A64FRE_fi-fi.esd)
+  - `e1299fc1b558e500ebcf5b2bdd36d1d136a100a4`
+- [ARM64 Windows 10 Enterprise French (Canada) 3.3 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/d49f6d85-369d-4a26-b58f-281794799295/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTBUSINESS_VOL_A64FRE_fr-ca.esd)
+  - `93542c7f51e65191676c99f3ca42abb6606328eb`
+- [ARM64 Windows 10 Enterprise French (France) 3.3 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/5d335464-c20b-4b69-94dc-a4a55050a5aa/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTBUSINESS_VOL_A64FRE_fr-fr.esd)
+  - `b732da766a18208252b8276039197afb8fd45444`
+- [ARM64 Windows 10 Enterprise Hebrew (Israel) 3.3 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/bc4d92a3-4dbc-494a-960f-3b3fa4c7f47d/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTBUSINESS_VOL_A64FRE_he-il.esd)
+  - `106df9a62e827bb77e4826b62ca74355a3ae83cb`
+- [ARM64 Windows 10 Enterprise Croatian (Croatia) 3.2 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/880d1727-d138-47ed-aae0-63231205fb19/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTBUSINESS_VOL_A64FRE_hr-hr.esd)
+  - `4a6b201dc75104a1c6e57029c691a90360c5ab6e`
+- [ARM64 Windows 10 Enterprise Hungarian (Hungary) 3.3 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/260945db-f1cb-4f92-a221-1fb1f94065f7/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTBUSINESS_VOL_A64FRE_hu-hu.esd)
+  - `864c25f4218b93597a68c48b8f45e3322cd5d271`
+- [ARM64 Windows 10 Enterprise Italian (Italy) 3.3 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/87faf227-b573-4122-ae52-3e7d909aceb9/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTBUSINESS_VOL_A64FRE_it-it.esd)
+  - `9a64ed4d5b239708552fe454acadfb7c46ef2bc2`
+- [ARM64 Windows 10 Enterprise Japanese (Japan) 3.5 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/84343986-a777-4d70-acb1-aaa2ec0b7220/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTBUSINESS_VOL_A64FRE_ja-jp.esd)
+  - `181653141d14a49c122e2875a167fdc9d2ead591`
+- [ARM64 Windows 10 Enterprise Korean (Korea) 3.3 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/5ec7279e-e860-4e2b-abab-06d3b76f359a/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTBUSINESS_VOL_A64FRE_ko-kr.esd)
+  - `a7620bd62d283d60d7defbe2153ee5c593a37967`
+- [ARM64 Windows 10 Enterprise Lithuanian (Lithuania) 3.2 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/cd511e2f-3311-475a-8c55-4d8c154d878d/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTBUSINESS_VOL_A64FRE_lt-lt.esd)
+  - `f04be6a2eb6c85cda9bb07afc34486e659ed30d4`
+- [ARM64 Windows 10 Enterprise Latvian (Latvia) 3.2 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/9b42b921-e514-495f-924e-cce8fb6afdf1/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTBUSINESS_VOL_A64FRE_lv-lv.esd)
+  - `b882140424108c4ac65cef66b980905851b0c25b`
+- [ARM64 Windows 10 Enterprise Norwegian Bokmål (Norway) 3.3 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/9eb32a46-2a3b-443e-8838-0686d90980ce/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTBUSINESS_VOL_A64FRE_nb-no.esd)
+  - `4e69853b05aba29e5354f74483d47a17f0ab0034`
+- [ARM64 Windows 10 Enterprise Dutch (Netherlands) 3.3 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/e710c087-072d-4269-be40-05d4f094af03/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTBUSINESS_VOL_A64FRE_nl-nl.esd)
+  - `0221074fe5e0f7043fa67cc6b442b8414de65566`
+- [ARM64 Windows 10 Enterprise Polish (Poland) 3.3 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/6af25f58-6fce-4315-8ad5-8724386fc192/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTBUSINESS_VOL_A64FRE_pl-pl.esd)
+  - `5431282136c8d762a25950565a3b90383489322d`
+- [ARM64 Windows 10 Enterprise Portuguese (Brazil) 3.3 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/e154d4bf-583c-4bdb-9992-890ab77cdfcb/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTBUSINESS_VOL_A64FRE_pt-br.esd)
+  - `a47e5425c51116ebf79c6db12653d387207dd408`
+- [ARM64 Windows 10 Enterprise Portuguese (Portugal) 3.3 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/663fa304-a6ed-4826-950d-19e26e2f538b/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTBUSINESS_VOL_A64FRE_pt-pt.esd)
+  - `3ed51d5208a3b9b46625d108d067bc77b0bd0be0`
+- [ARM64 Windows 10 Enterprise Romanian (Romania) 3.2 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/7248bf0b-5941-4935-9035-cc532c102619/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTBUSINESS_VOL_A64FRE_ro-ro.esd)
+  - `21ae001dd0b25dee7d385790af5537f146428c28`
+- [ARM64 Windows 10 Enterprise Russian (Russia) 3.3 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/d62e32b4-f953-4d3d-8e46-cb100e73b625/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTBUSINESS_VOL_A64FRE_ru-ru.esd)
+  - `964e1169e9d305e32c1881b9882adeda1c5ac776`
+- [ARM64 Windows 10 Enterprise Slovak (Slovakia) 3.2 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/ce3d9aad-4857-4bca-a1f8-81267a46b357/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTBUSINESS_VOL_A64FRE_sk-sk.esd)
+  - `a8ff5e33878deb58e76d8a6ed428f68c9c0309f9`
+- [ARM64 Windows 10 Enterprise Slovenian (Slovenia) 3.2 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/5d8ac8a1-9da4-42e2-954e-03b4074f87d7/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTBUSINESS_VOL_A64FRE_sl-si.esd)
+  - `ac3eb4f0e5e6c0983e5c929103a46677ad007214`
+- [ARM64 Windows 10 Enterprise Serbian (Latin, Serbia) 3.2 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/f73effcb-1d5b-4700-b57a-8b5ad37a6a3c/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTBUSINESS_VOL_A64FRE_sr-latn-rs.esd)
+  - `e9356e0924199a6b59a6d16e8ef972a31e142bba`
+- [ARM64 Windows 10 Enterprise Swedish (Sweden) 3.3 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/ee375602-6486-464e-8cf6-de8e57376f9b/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTBUSINESS_VOL_A64FRE_sv-se.esd)
+  - `93f072e05c111864be0589b6565b813ca5588668`
+- [ARM64 Windows 10 Enterprise Thai (Thailand) 3.2 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/9f9b554d-df9c-43d8-a489-0a0e812458b3/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTBUSINESS_VOL_A64FRE_th-th.esd)
+  - `fca57b1ea4b538acdb522259eda3e31fc154acd0`
+- [ARM64 Windows 10 Enterprise Turkish (Turkey) 3.2 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/aa9a10fc-1179-4089-8a5b-0d27c4f7195a/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTBUSINESS_VOL_A64FRE_tr-tr.esd)
+  - `10bcae36b25cfab130549337510e24797db503b7`
+- [ARM64 Windows 10 Enterprise Ukrainian (Ukraine) 3.2 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/19d08caf-68ec-4fd0-a2f0-773c3da31dcc/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTBUSINESS_VOL_A64FRE_uk-ua.esd)
+  - `d71ff826934151c004dc972ffa850e20b2d08602`
+- [ARM64 Windows 10 Enterprise Chinese (Simplified, China) 3.5 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/26f7d5d6-9508-44b1-94cb-99083bf59319/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTBUSINESS_VOL_A64FRE_zh-cn.esd)
+  - `a1a812cdf7dad95414e9e949401356cc4cc6f626`
+- [ARM64 Windows 10 Enterprise Chinese (Traditional, Taiwan) 3.5 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/416a023f-2873-4b05-b4bd-398a77571dc9/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTBUSINESS_VOL_A64FRE_zh-tw.esd)
+  - `952a9f09433d4c5a7b7182951f55e6f2d6554225`
+- [ARM64 Windows 10 Arabic (Saudi Arabia) 3.4 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/26805f68-10fe-458a-a5bb-b8deeb5edcef/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTCONSUMER_RET_A64FRE_ar-sa.esd)
+  - `797d74ceb708f9c34ca96829fb660bf45c80c1c1`
+- [ARM64 Windows 10 Bulgarian (Bulgaria) 3.3 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/26b99e93-0959-471c-9d3b-bbb2811bad5f/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTCONSUMER_RET_A64FRE_bg-bg.esd)
+  - `06e7c504c155e065ada6e49c306eaf866df6bbf0`
+- [ARM64 Windows 10 Czech (Czechia) 3.3 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/5df2ce37-02e8-46ca-97d6-17c9f8a9d1a1/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTCONSUMER_RET_A64FRE_cs-cz.esd)
+  - `e22362fcb2f3644a485cbd27a6e56956913bc172`
+- [ARM64 Windows 10 Danish (Denmark) 3.3 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/a29c521c-70b4-4b86-a063-4ad4b831843f/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTCONSUMER_RET_A64FRE_da-dk.esd)
+  - `4df732b8d9fc2b7186cbc94f871e2137ef79b45c`
+- [ARM64 Windows 10 German (Germany) 3.4 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/683f1b33-b9f4-497d-8ce4-74e7b5b134c4/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTCONSUMER_RET_A64FRE_de-de.esd)
+  - `d134f9dec79226567a8a0352137739ca9ddbb41d`
+- [ARM64 Windows 10 Greek (Greece) 3.3 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/46cd70ce-3423-45a9-b934-2852d03ea767/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTCONSUMER_RET_A64FRE_el-gr.esd)
+  - `ff090c68644580c77194f7f779e8bcd8f9a49b37`
+- [ARM64 Windows 10 English (United Kingdom) 3.4 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/894f88fe-3049-4464-9adc-8425012a13a8/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTCONSUMER_RET_A64FRE_en-gb.esd)
+  - `e4b02c73363b8e829493632d0245c896fd1d91c0`
+- [ARM64 Windows 10 English (United States) 3.4 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/0796d7b4-b59c-4aac-9b29-64666728c3e3/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTCONSUMER_RET_A64FRE_en-us.esd)
+  - `21d0723b6c8e8be77e332aa44c77c9463ab66d6a`
+- [ARM64 Windows 10 Spanish (Spain, International Sort) 3.4 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/a0f9a4c1-f2b4-4f9d-8598-ca0afeb81ebd/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTCONSUMER_RET_A64FRE_es-es.esd)
+  - `d56d895f1cd6cfc2f78cf8b2df85a405db160d7e`
+- [ARM64 Windows 10 Spanish (Mexico) 3.4 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/55028db2-6d3f-4d9c-b67a-0f85a6a58857/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTCONSUMER_RET_A64FRE_es-mx.esd)
+  - `fdce6cee7f656c96b61966a3505bda7e45ea6228`
+- [ARM64 Windows 10 Estonian (Estonia) 3.3 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/ab5ef450-c812-4ac6-9df8-37d5a71de57c/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTCONSUMER_RET_A64FRE_et-ee.esd)
+  - `337137b5e277f33f82d61b994bc8f4090395623f`
+- [ARM64 Windows 10 Finnish (Finland) 3.3 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/a73474a3-ad76-46de-8b95-369578f7fe8e/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTCONSUMER_RET_A64FRE_fi-fi.esd)
+  - `bf4756de3ca6690ab085111f791e2404ff8e4fb2`
+- [ARM64 Windows 10 French (Canada) 3.4 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/09ab3740-f12b-4d0d-becf-03f010a7c080/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTCONSUMER_RET_A64FRE_fr-ca.esd)
+  - `6c4a80c1c01393522779d4c6e9e5e840da284ff8`
+- [ARM64 Windows 10 French (France) 3.4 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/8d55ebe8-f71c-44f1-a12c-889913af2598/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTCONSUMER_RET_A64FRE_fr-fr.esd)
+  - `4702f40db9c76cb5a25241ca4fa1e0a920a95ebb`
+- [ARM64 Windows 10 Hebrew (Israel) 3.3 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/111fb0c3-527c-4b38-8456-92f05836d288/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTCONSUMER_RET_A64FRE_he-il.esd)
+  - `cf2b7972e76cdb1c5798a4fc09712dccdf7ae444`
+- [ARM64 Windows 10 Croatian (Croatia) 3.3 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/696060bd-0a50-4a89-8255-1d495ab06e17/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTCONSUMER_RET_A64FRE_hr-hr.esd)
+  - `e266a02111cb98bb59ea590e4608adcfd2d5fdc7`
+- [ARM64 Windows 10 Hungarian (Hungary) 3.3 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/1ccdf6b6-f9d9-4a6f-b0bd-0baffc051025/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTCONSUMER_RET_A64FRE_hu-hu.esd)
+  - `e1c14e3e70fc8d14f683245ed9a33aec51dcb77b`
+- [ARM64 Windows 10 Italian (Italy) 3.3 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/6416a44e-efda-4f2f-8072-ba3bd9a2326d/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTCONSUMER_RET_A64FRE_it-it.esd)
+  - `df59e344b24c53fecb35d3003506240a78eb138d`
+- [ARM64 Windows 10 Japanese (Japan) 3.5 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/5d32f511-2a5b-40a7-932d-9dde8b99550f/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTCONSUMER_RET_A64FRE_ja-jp.esd)
+  - `c6aa10cf8a2f13ecbfe91b4bc28515b50ed528e2`
+- [ARM64 Windows 10 Korean (Korea) 3.4 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/e84d935c-a2ea-4c79-a610-f2701a527ca2/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTCONSUMER_RET_A64FRE_ko-kr.esd)
+  - `c37cf2e893a87fb8a0b965bb0f081b39e568d1df`
+- [ARM64 Windows 10 Lithuanian (Lithuania) 3.3 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/0a535119-9907-4238-a0d7-9227505a1a02/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTCONSUMER_RET_A64FRE_lt-lt.esd)
+  - `557dbb373e6c7efe2731925091d171ec2e6f9812`
+- [ARM64 Windows 10 Latvian (Latvia) 3.3 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/d0ac576c-cd36-46ae-be36-6cb47a6260b7/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTCONSUMER_RET_A64FRE_lv-lv.esd)
+  - `0c374838c7e06edc2e3638579a7068b5183abd92`
+- [ARM64 Windows 10 Norwegian Bokmål (Norway) 3.3 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/8fd1413a-bdaa-4197-a436-7c0014a2b126/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTCONSUMER_RET_A64FRE_nb-no.esd)
+  - `900d65c6c06835709c5505a879f72dc7f0db1d0b`
+- [ARM64 Windows 10 Dutch (Netherlands) 3.3 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/ac3708fe-3ce8-439c-9531-d954ea1fc13c/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTCONSUMER_RET_A64FRE_nl-nl.esd)
+  - `9fb360e29f97251cc5860d83a438b9bdd680788a`
+- [ARM64 Windows 10 Polish (Poland) 3.3 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/661a66b4-966c-46f3-b1e7-46df7c924df1/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTCONSUMER_RET_A64FRE_pl-pl.esd)
+  - `7b87e44d4e11e5891feeaf350ed94eab9fcb78e7`
+- [ARM64 Windows 10 Portuguese (Brazil) 3.4 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/2cdc993c-dcf1-47cc-be2c-36ba0a9d0626/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTCONSUMER_RET_A64FRE_pt-br.esd)
+  - `eb9efe7051ee73c8e938f33b318f5e39a311a130`
+- [ARM64 Windows 10 Portuguese (Portugal) 3.3 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/1a844d83-98ea-4e52-85d9-15b783d821dc/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTCONSUMER_RET_A64FRE_pt-pt.esd)
+  - `257d90a937d9cfd9f20586c70f89f20c9525c6b1`
+- [ARM64 Windows 10 Romanian (Romania) 3.3 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/b5168b66-78ee-40c0-afbf-0b76bfc5cee0/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTCONSUMER_RET_A64FRE_ro-ro.esd)
+  - `d7311430f8b2cdd518206120232a8ee1c0342284`
+- [ARM64 Windows 10 Russian (Russia) 3.4 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/c3197d6d-c877-49e8-bddf-9fbd79adb42b/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTCONSUMER_RET_A64FRE_ru-ru.esd)
+  - `b462b283fedb39f3292858790c031c6a6694e308`
+- [ARM64 Windows 10 Slovak (Slovakia) 3.3 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/c36774d5-f280-4f85-aeb8-57e4f4e2ffa3/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTCONSUMER_RET_A64FRE_sk-sk.esd)
+  - `7fa34b844357a3060ef215edcef306272159d832`
+- [ARM64 Windows 10 Slovenian (Slovenia) 3.3 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/98807dcb-3155-4375-9eb7-195a72371569/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTCONSUMER_RET_A64FRE_sl-si.esd)
+  - `edff56f39679cc7b909c03a2a39060105c40eee9`
+- [ARM64 Windows 10 Serbian (Latin, Serbia) 3.3 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/72d081a7-a320-47c3-9360-6b8c321b912a/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTCONSUMER_RET_A64FRE_sr-latn-rs.esd)
+  - `62d04daba556499f80627d33dc8450fdfb13a2f1`
+- [ARM64 Windows 10 Swedish (Sweden) 3.3 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/5b724050-e279-4a0d-8f2c-a355704d7aa8/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTCONSUMER_RET_A64FRE_sv-se.esd)
+  - `5f70ecc968af9262ae06a6828934f28c7a7f19c7`
+- [ARM64 Windows 10 Thai (Thailand) 3.3 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/b7dc6712-3735-408f-b7a3-a384f913149f/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTCONSUMER_RET_A64FRE_th-th.esd)
+  - `29e50a7cb23550f9758385f801f9c26ab4af06d2`
+- [ARM64 Windows 10 Turkish (Turkey) 3.3 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/47b19d6b-5f9f-43c8-a3fb-6e9f513f36f4/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTCONSUMER_RET_A64FRE_tr-tr.esd)
+  - `931959560eeed3f89c7c140be951a6ce6a80e865`
+- [ARM64 Windows 10 Ukrainian (Ukraine) 3.3 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/a122c262-ba72-4db6-8112-efe1000ae31f/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTCONSUMER_RET_A64FRE_uk-ua.esd)
+  - `bc8303f8ee7d16fcb4d6edd023cbf6672bf14775`
+- [ARM64 Windows 10 Chinese (Simplified, China) 3.6 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/bd6b5fe4-348a-4fb1-97e9-297c9136dfc2/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTCONSUMER_RET_A64FRE_zh-cn.esd)
+  - `296d7f8361ba34db797b8ffd29496ecd36dacb27`
+- [ARM64 Windows 10 Chinese (Traditional, Taiwan) 3.5 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/57c14bf4-73e7-4819-87e6-245a2b57655b/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTCONSUMER_RET_A64FRE_zh-tw.esd)
+  - `69a91d2719948583514acea597fabf834dc64216`
+- [x64 Windows 10 家庭中文版 Chinese (Simplified, China) 3.7 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/6048ac73-c010-4eaf-ac07-a8672588662e/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTCHINA_RET_x64FRE_zh-cn.esd)
+  - `8b49a8943cb3260ce9a8dadcd729f0ac98018245`
+- [x64 Windows 10 Enterprise Arabic (Saudi Arabia) 3.6 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/81e85cf2-d4e4-4836-b265-7f8ad61b84c3/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTBUSINESS_VOL_x64FRE_ar-sa.esd)
+  - `9037a9c4712595a88819bd3877d077942b9a093b`
+- [x64 Windows 10 Enterprise Bulgarian (Bulgaria) 3.7 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/bff44c2c-2693-42ad-be88-56a0bc0322f8/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTBUSINESS_VOL_x64FRE_bg-bg.esd)
+  - `fe9ff5f2beb8bdb9d5b674cd9eb81b1688fd4478`
+- [x64 Windows 10 Enterprise Czech (Czechia) 3.7 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/467fb390-7396-4fbe-bb59-516eca4e6d67/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTBUSINESS_VOL_x64FRE_cs-cz.esd)
+  - `4504ce6161b2bab2157c0da2a3d68547ca12fb0b`
+- [x64 Windows 10 Enterprise Danish (Denmark) 3.7 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/86c9daa4-aa47-4861-8057-61d442bde487/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTBUSINESS_VOL_x64FRE_da-dk.esd)
+  - `eff854c3c09d0e2933afa70e856ac0c759c46f2b`
+- [x64 Windows 10 Enterprise German (Germany) 3.8 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/f13919c0-3ec3-4010-872d-dd8e16462c8a/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTBUSINESS_VOL_x64FRE_de-de.esd)
+  - `fe297207f5f3c99a9764696267d5693a7e8747f6`
+- [x64 Windows 10 Enterprise Greek (Greece) 3.7 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/8868c0f0-63fd-4fb4-a301-68730827bc3e/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTBUSINESS_VOL_x64FRE_el-gr.esd)
+  - `e7f932ecc995ab33fa97d09b728c1bdf0e435f20`
+- [x64 Windows 10 Enterprise English (United Kingdom) 3.8 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/b4fe2c14-0069-421d-a78d-64f75c2828f0/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTBUSINESS_VOL_x64FRE_en-gb.esd)
+  - `caa24a06d73531b5b588ed717a185a72d57f128b`
+- [x64 Windows 10 Enterprise English (United States) 3.8 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/455b6b1a-101f-4f21-a4be-ed8b9f07d87a/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTBUSINESS_VOL_x64FRE_en-us.esd)
+  - `f25b51b55657c2117f9df01d4c7f76d17061a401`
+- [x64 Windows 10 Enterprise Spanish (Spain, International Sort) 3.8 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/04688955-848c-4d19-aa71-e3ec6c08b3a1/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTBUSINESS_VOL_x64FRE_es-es.esd)
+  - `831bfb1c430f062623c135dd99efec5060018918`
+- [x64 Windows 10 Enterprise Spanish (Mexico) 3.6 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/217079ed-b4f7-47b8-8a97-f2838bb7930b/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTBUSINESS_VOL_x64FRE_es-mx.esd)
+  - `d7f1e4993ea6f9aeb632a478111f68e99500f1da`
+- [x64 Windows 10 Enterprise Estonian (Estonia) 3.7 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/0447c15e-7a3e-4bb7-be4c-dce6082af03f/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTBUSINESS_VOL_x64FRE_et-ee.esd)
+  - `512edfae1762ca7e4422c530933238d78922d25e`
+- [x64 Windows 10 Enterprise Finnish (Finland) 3.7 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/d78865c2-4482-4f33-8b2d-10f16bb2703d/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTBUSINESS_VOL_x64FRE_fi-fi.esd)
+  - `305cada7df25918a5287adf665134a7742c66e47`
+- [x64 Windows 10 Enterprise French (Canada) 3.6 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/d106c192-f90a-4fb8-9e75-a81fb7543b6f/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTBUSINESS_VOL_x64FRE_fr-ca.esd)
+  - `cd43b6246014c50906a04aa2e9f98e34c8281b55`
+- [x64 Windows 10 Enterprise French (France) 3.8 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/3f609b53-1861-40d3-85a5-f0783c91d62c/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTBUSINESS_VOL_x64FRE_fr-fr.esd)
+  - `0faaf0d1013b5da37f1f36a04c6e7aa0d7fdd8e3`
+- [x64 Windows 10 Enterprise Hebrew (Israel) 3.6 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/0664f66e-3455-4c78-bc42-2a823e2d3e9a/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTBUSINESS_VOL_x64FRE_he-il.esd)
+  - `d14c87e875bf1c9be8b89e1c8cf716c2d5a5e0dc`
+- [x64 Windows 10 Enterprise Croatian (Croatia) 3.7 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/64206449-d4a7-446e-b89a-6b72832398fe/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTBUSINESS_VOL_x64FRE_hr-hr.esd)
+  - `6e3aae2efff7c2e82b330b60c5cce21289861dc8`
+- [x64 Windows 10 Enterprise Hungarian (Hungary) 3.7 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/555a3599-c8e2-424c-8bad-8776ddd7d1f6/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTBUSINESS_VOL_x64FRE_hu-hu.esd)
+  - `61ce9a9fca6665f5dbfda9dff6a6a779aa26f381`
+- [x64 Windows 10 Enterprise Italian (Italy) 3.7 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/e450435d-7de7-41dc-88de-9dd6a93f77a0/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTBUSINESS_VOL_x64FRE_it-it.esd)
+  - `22dec133dce06ecc895e4d43e981ce3ecf6213d4`
+- [x64 Windows 10 Enterprise Japanese (Japan) 3.8 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/add9cfea-77d5-4d5c-9de9-72187d5750ce/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTBUSINESS_VOL_x64FRE_ja-jp.esd)
+  - `1f7dc85625b7b1220016935b292c7f2c11e315e7`
+- [x64 Windows 10 Enterprise Korean (Korea) 3.6 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/72a19c9e-d69d-4a57-9a90-c41b6421e48f/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTBUSINESS_VOL_x64FRE_ko-kr.esd)
+  - `992d5e787566c8b26a17c430202f0a660374352c`
+- [x64 Windows 10 Enterprise Lithuanian (Lithuania) 3.7 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/f7113780-6b18-40ee-8d1f-7895242730d9/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTBUSINESS_VOL_x64FRE_lt-lt.esd)
+  - `3d57afaec70659d023faf2e0362c47347d6ff8b2`
+- [x64 Windows 10 Enterprise Latvian (Latvia) 3.7 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/9b533e2d-ecd3-404f-b4bd-743627de7d62/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTBUSINESS_VOL_x64FRE_lv-lv.esd)
+  - `71cd925da1f8d765da904099a6fc5bbcc3cda3a4`
+- [x64 Windows 10 Enterprise Norwegian Bokmål (Norway) 3.7 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/799bbb3b-73fc-4af2-9b47-e82ce858eb6e/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTBUSINESS_VOL_x64FRE_nb-no.esd)
+  - `1d39af85557345d6f1656a7af16948adacd4ff75`
+- [x64 Windows 10 Enterprise Dutch (Netherlands) 3.7 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/521b098a-d2f2-4fec-ba43-0654071d19e8/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTBUSINESS_VOL_x64FRE_nl-nl.esd)
+  - `3e7223bb3235d0bfdbbe4d4c29337016768024ee`
+- [x64 Windows 10 Enterprise Polish (Poland) 3.7 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/bc18df55-99e7-4b6c-8748-1550a328dabc/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTBUSINESS_VOL_x64FRE_pl-pl.esd)
+  - `02ad8480e2bc392b85d47a4b8f2205b9d41cb572`
+- [x64 Windows 10 Enterprise Portuguese (Brazil) 3.6 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/40bca0ed-42d3-48d1-8d44-a269bf2b752a/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTBUSINESS_VOL_x64FRE_pt-br.esd)
+  - `82fdb4b3ae8d6517f08e01f3dad5bb87180c023b`
+- [x64 Windows 10 Enterprise Portuguese (Portugal) 3.7 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/20511c4e-3694-442f-92e9-f7ed55c9bb1b/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTBUSINESS_VOL_x64FRE_pt-pt.esd)
+  - `0623f19523674a23851ec97e92ca69f433754c89`
+- [x64 Windows 10 Enterprise Romanian (Romania) 3.7 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/b081c583-39e7-455e-9097-a360a30a145d/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTBUSINESS_VOL_x64FRE_ro-ro.esd)
+  - `8bb08fe272750f169296611c72c1ab859512f2ef`
+- [x64 Windows 10 Enterprise Russian (Russia) 3.6 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/98d6152e-f82c-4961-be41-e1b9f59aea75/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTBUSINESS_VOL_x64FRE_ru-ru.esd)
+  - `47f6bf7a061d9929083d6549003c857439cbb9aa`
+- [x64 Windows 10 Enterprise Slovak (Slovakia) 3.7 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/1ff3e47c-cb84-4e19-bab3-0f87c490fcb9/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTBUSINESS_VOL_x64FRE_sk-sk.esd)
+  - `31fc6bac020c9fdbf569812f9ab7a01e53a3929c`
+- [x64 Windows 10 Enterprise Slovenian (Slovenia) 3.7 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/937bd6cc-5164-4420-8bbc-191b1b352849/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTBUSINESS_VOL_x64FRE_sl-si.esd)
+  - `29322f50fe28ca1b9e019c067280a3ab0dd79428`
+- [x64 Windows 10 Enterprise Serbian (Latin, Serbia) 3.5 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/e64a953d-ece9-4a99-9dce-ebdc85de9c68/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTBUSINESS_VOL_x64FRE_sr-latn-rs.esd)
+  - `838cb520453f779ee7e798007ac883d78e3f8223`
+- [x64 Windows 10 Enterprise Swedish (Sweden) 3.7 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/d763de70-a805-4a8e-ac27-a53d5786f8ee/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTBUSINESS_VOL_x64FRE_sv-se.esd)
+  - `65f8167edba6de8da018161b939f6ca680e324c4`
+- [x64 Windows 10 Enterprise Thai (Thailand) 3.6 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/e6a03644-ca0a-41ab-ac94-d051964a0272/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTBUSINESS_VOL_x64FRE_th-th.esd)
+  - `7e28c835e37b16993a6721f9706b953ebf46812a`
+- [x64 Windows 10 Enterprise Turkish (Turkey) 3.5 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/9d7870a1-a81a-4f47-a643-09a0774792fb/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTBUSINESS_VOL_x64FRE_tr-tr.esd)
+  - `7450c8da4b8ccae25cba3586742d0dc799f78594`
+- [x64 Windows 10 Enterprise Ukrainian (Ukraine) 3.6 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/b565ddb1-0231-4370-b984-932882108a32/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTBUSINESS_VOL_x64FRE_uk-ua.esd)
+  - `81b734e38b818e24226ab02006fe3c89cfeb7dd3`
+- [x64 Windows 10 Enterprise Chinese (Simplified, China) 3.8 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/210d7c30-d427-47d9-8e8c-a2abad9d8e5b/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTBUSINESS_VOL_x64FRE_zh-cn.esd)
+  - `71099335022dc60ab894df65c8f4953c37ba3a83`
+- [x64 Windows 10 Enterprise Chinese (Traditional, Taiwan) 3.8 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/6bbfb675-fad3-448c-a74b-5c1feb3398cc/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTBUSINESS_VOL_x64FRE_zh-tw.esd)
+  - `4675288ad2b6fe263e8784ce5c27b8f088d3f2b6`
+- [x64 Windows 10 Arabic (Saudi Arabia) 3.7 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/39d366c6-bb66-4938-9a78-0670eda8304d/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTCONSUMER_RET_x64FRE_ar-sa.esd)
+  - `2119ef0efd432f98cdccdf525cd17fcceacef111`
+- [x64 Windows 10 Bulgarian (Bulgaria) 3.8 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/21679c3a-71b6-4f85-9b77-2cb3325c5596/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTCONSUMER_RET_x64FRE_bg-bg.esd)
+  - `833e42d96e91b43f4ab6f4dc0fea423d78ce6564`
+- [x64 Windows 10 Czech (Czechia) 3.8 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/201c0048-0542-4bd1-bacc-6ea520052536/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTCONSUMER_RET_x64FRE_cs-cz.esd)
+  - `0ebc5f6425a4e228fab66ac39d92ac5f5521d3f1`
+- [x64 Windows 10 Danish (Denmark) 3.8 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/b509821a-eba2-4ba8-98aa-3414b6471f5e/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTCONSUMER_RET_x64FRE_da-dk.esd)
+  - `ce7fd73832d4fdc887ad62d9db77fe0fccaf4f39`
+- [x64 Windows 10 German (Germany) 3.9 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/9596877d-e4c2-4468-b71d-da7627caf104/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTCONSUMER_RET_x64FRE_de-de.esd)
+  - `b8332df31569a04be07693f0c80afefbee5f15cb`
+- [x64 Windows 10 Greek (Greece) 3.8 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/d8b7f569-0db4-4039-aaed-d4cb64cc6c36/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTCONSUMER_RET_x64FRE_el-gr.esd)
+  - `9539463d1b8d5b0b027c1a6ddf34734717524cbd`
+- [x64 Windows 10 English (United Kingdom) 3.9 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/c8ba26f0-72f8-44df-80df-cfad71e9abeb/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTCONSUMER_RET_x64FRE_en-gb.esd)
+  - `ba23ba79807a76f4efb922e639c3aba2e4bf889f`
+- [x64 Windows 10 English (United States) 3.9 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/f7d48c2e-eb2c-4f13-97e1-45a08c90bcfe/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTCONSUMER_RET_x64FRE_en-us.esd)
+  - `e35f49be74010d22e1bf9d2f200e48f3f7fd0a66`
+- [x64 Windows 10 Spanish (Spain, International Sort) 3.9 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/f257630d-382d-414a-bdd8-99d2b6ef9c38/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTCONSUMER_RET_x64FRE_es-es.esd)
+  - `5ed5af0d0e5b3523cb649b40f1bf9c5d45ad6aab`
+- [x64 Windows 10 Spanish (Mexico) 3.7 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/829390eb-6e1c-4c3b-a86d-9cfe1d2e3daa/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTCONSUMER_RET_x64FRE_es-mx.esd)
+  - `89a518e26b04885b172242f84debd953745e185c`
+- [x64 Windows 10 Estonian (Estonia) 3.7 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/94843927-e06b-4be7-8825-46989f26d7a4/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTCONSUMER_RET_x64FRE_et-ee.esd)
+  - `a5efc51aa6cf7003d4c87737600e097bc4d2569e`
+- [x64 Windows 10 Finnish (Finland) 3.8 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/9c1da917-dc7f-47a8-81fe-97344d254de8/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTCONSUMER_RET_x64FRE_fi-fi.esd)
+  - `f0a6fdbd471f13b009aa03d4e2d95da8d25d6a8a`
+- [x64 Windows 10 French (Canada) 3.7 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/ba9f4677-1dff-4286-bf73-8b03476cf5d8/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTCONSUMER_RET_x64FRE_fr-ca.esd)
+  - `d035018417af686fc854850966e22cc89b4f1336`
+- [x64 Windows 10 French (France) 3.9 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/46aa3f45-b934-4249-8b84-60970767fb82/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTCONSUMER_RET_x64FRE_fr-fr.esd)
+  - `ff42440eb62695fbabeac9111099a59b561a87f1`
+- [x64 Windows 10 Hebrew (Israel) 3.7 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/7d23c7a4-4358-4df0-a976-c9855c142347/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTCONSUMER_RET_x64FRE_he-il.esd)
+  - `cebc14234c779670c1bfcf56f6638bc148eb1153`
+- [x64 Windows 10 Croatian (Croatia) 3.7 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/9b08d510-ad85-4fd4-9b98-494844767b8c/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTCONSUMER_RET_x64FRE_hr-hr.esd)
+  - `30f335514dd4a98ebd3905f8e6105a855075ced8`
+- [x64 Windows 10 Hungarian (Hungary) 3.8 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/d961ba80-ae53-4496-95e6-adbbc4609723/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTCONSUMER_RET_x64FRE_hu-hu.esd)
+  - `05b54d9118597832ab0d16db7d97c1af1d7471cd`
+- [x64 Windows 10 Italian (Italy) 3.8 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/562507fc-4cbb-4a8c-a350-7a2d6a7f949a/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTCONSUMER_RET_x64FRE_it-it.esd)
+  - `f69dd8994b155b7c326f2f55d5fb04e9493d7cdb`
+- [x64 Windows 10 Japanese (Japan) 3.8 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/6e1da015-60be-4792-9fbe-eb24a9196c8d/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTCONSUMER_RET_x64FRE_ja-jp.esd)
+  - `45caa35f121edbf5e96b09ad999053d288afa25c`
+- [x64 Windows 10 Korean (Korea) 3.7 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/49b275b7-dcce-4e80-acdf-f925debb0dae/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTCONSUMER_RET_x64FRE_ko-kr.esd)
+  - `a39fb6ff19f14ed12f0a274adb4982c7374981ab`
+- [x64 Windows 10 Lithuanian (Lithuania) 3.7 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/b14a1dec-9d12-496d-8573-2f7c9dd5dd22/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTCONSUMER_RET_x64FRE_lt-lt.esd)
+  - `daaf51acc44e13894e91c7914564c092bc379ef7`
+- [x64 Windows 10 Latvian (Latvia) 3.7 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/7457ba79-b722-4d81-be01-e85827456bf8/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTCONSUMER_RET_x64FRE_lv-lv.esd)
+  - `26955c8e70a2971ae431d7703d7e670389428f9b`
+- [x64 Windows 10 Norwegian Bokmål (Norway) 3.8 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/cbe010a5-a624-4f71-80ec-526d67e2a12b/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTCONSUMER_RET_x64FRE_nb-no.esd)
+  - `a16442801ec13981abe8dd4acb0afc4cbf37579e`
+- [x64 Windows 10 Dutch (Netherlands) 3.8 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/054a32d4-2de0-4eed-b1f5-9a6d9f5ab8c0/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTCONSUMER_RET_x64FRE_nl-nl.esd)
+  - `f04eca591c447dc2929a93c94b5707662d6b5154`
+- [x64 Windows 10 Polish (Poland) 3.8 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/8c1099f7-5d3e-49e1-9371-3b64d9b03fae/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTCONSUMER_RET_x64FRE_pl-pl.esd)
+  - `3eb231e1fb4795a977113251790379182ca0f745`
+- [x64 Windows 10 Portuguese (Brazil) 3.7 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/da057c67-60d0-4884-81dc-9817dafba10c/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTCONSUMER_RET_x64FRE_pt-br.esd)
+  - `5d07b26c08683668715f4afff41a578bc39e72a4`
+- [x64 Windows 10 Portuguese (Portugal) 3.8 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/b18aa3b3-6a2a-4b92-baba-17a48fac28ec/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTCONSUMER_RET_x64FRE_pt-pt.esd)
+  - `1798e2e2352516a261a61dbb84c71047aea45f6f`
+- [x64 Windows 10 Romanian (Romania) 3.7 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/a9d84bcb-e2ac-48d6-abdd-0593bf48c311/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTCONSUMER_RET_x64FRE_ro-ro.esd)
+  - `72e61f2d32539ad4a6efb0895ff6395e07897009`
+- [x64 Windows 10 Russian (Russia) 3.7 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/63b2b0d8-293f-47fb-a60d-793e2b2480c2/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTCONSUMER_RET_x64FRE_ru-ru.esd)
+  - `22a4167e3814e33bcb6f5757e62f2ba9c3d5c5e6`
+- [x64 Windows 10 Slovak (Slovakia) 3.8 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/686d4c7c-15c3-480c-af23-0866f02a05c6/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTCONSUMER_RET_x64FRE_sk-sk.esd)
+  - `58b5d832727db7225f9998835f2316ecee5ce0bc`
+- [x64 Windows 10 Slovenian (Slovenia) 3.8 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/8e357a7a-e3a5-47bc-ac20-05129f603c4f/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTCONSUMER_RET_x64FRE_sl-si.esd)
+  - `0f1a4a2c5ab3b5025e159dd83064e872e5368d48`
+- [x64 Windows 10 Serbian (Latin, Serbia) 3.6 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/1059e6b1-028e-4a47-ae87-7e28b6a74c58/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTCONSUMER_RET_x64FRE_sr-latn-rs.esd)
+  - `382e9724230b5782321894ef616ade107bda54eb`
+- [x64 Windows 10 Swedish (Sweden) 3.8 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/87fe14cb-3b0e-454d-9328-7bc11841842c/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTCONSUMER_RET_x64FRE_sv-se.esd)
+  - `2e662f8dc692fd8a2b5b5a8452997503206f7e8f`
+- [x64 Windows 10 Thai (Thailand) 3.7 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/e9cb521e-49a2-4659-a348-404e6c8f3fab/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTCONSUMER_RET_x64FRE_th-th.esd)
+  - `a8c4567e5abdbe14edd43b2c90e0af1e8a25c2f6`
+- [x64 Windows 10 Turkish (Turkey) 3.7 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/b10c0e03-7b42-424b-a7fe-4905ab5dedc7/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTCONSUMER_RET_x64FRE_tr-tr.esd)
+  - `93b697ff8e6f2bc0d8a72ec39bbd91e87a55bb20`
+- [x64 Windows 10 Ukrainian (Ukraine) 3.6 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/26a80973-49ac-4fde-9f86-fbb072abfb84/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTCONSUMER_RET_x64FRE_uk-ua.esd)
+  - `bfc2015c5b40b52fffe8d117223e2f6a146cc64e`
+- [x64 Windows 10 Chinese (Simplified, China) 3.9 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/04dcfb20-5583-43e7-8be1-30501b0a1c6e/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTCONSUMER_RET_x64FRE_zh-cn.esd)
+  - `b4c440e96bd81efc6245d5fcc4682440d738e51a`
+- [x64 Windows 10 Chinese (Traditional, Taiwan) 3.8 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/e626eb96-8ce0-42ab-9fa9-65ae5d822e5c/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTCONSUMER_RET_x64FRE_zh-tw.esd)
+  - `774822a2d313b1c201eca813fdef987dd9c354e9`
+- [x86 Windows 10 家庭中文版 Chinese (Simplified, China) 2.7 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/927ea937-74a7-4f37-aeaf-14a7cf98acc5/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTCHINA_RET_x86FRE_zh-cn.esd)
+  - `fbd0b7322af31de59db60b437150080c81451a76`
+- [x86 Windows 10 Enterprise Arabic (Saudi Arabia) 2.6 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/4d9cd06c-4f4c-4bed-9f31-5dd354980b0d/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTBUSINESS_VOL_x86FRE_ar-sa.esd)
+  - `632f2eae8c528160bfbef64c899e3ee54e5f801c`
+- [x86 Windows 10 Enterprise Bulgarian (Bulgaria) 2.6 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/fa716a36-ff18-4059-9a15-560abfe6bedc/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTBUSINESS_VOL_x86FRE_bg-bg.esd)
+  - `3f01767bbfe44cca895d3b90620436919ed65525`
+- [x86 Windows 10 Enterprise Czech (Czechia) 2.6 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/bb139718-211d-4925-b8c4-223a0d10c8a8/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTBUSINESS_VOL_x86FRE_cs-cz.esd)
+  - `448e86d891a06ec35352b46e65dab0b1a5802e28`
+- [x86 Windows 10 Enterprise Danish (Denmark) 2.6 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/75c490ef-0764-4ff5-bd90-7923ed3acf16/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTBUSINESS_VOL_x86FRE_da-dk.esd)
+  - `6c01c960c91c97ebd0180d0eba6f724397f2f4a6`
+- [x86 Windows 10 Enterprise German (Germany) 2.7 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/4758747d-4eb2-470f-a351-fde1981bd618/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTBUSINESS_VOL_x86FRE_de-de.esd)
+  - `82a53647b0ef4ff38be0c152526a7db032d1ce02`
+- [x86 Windows 10 Enterprise Greek (Greece) 2.6 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/a429560e-5f24-4577-a2a4-89a748fc169c/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTBUSINESS_VOL_x86FRE_el-gr.esd)
+  - `358b2c9438f8b3e86cac23a093d8c20e7ae56b86`
+- [x86 Windows 10 Enterprise English (United Kingdom) 2.7 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/2bb43560-31da-4973-b27b-2296d5773dfc/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTBUSINESS_VOL_x86FRE_en-gb.esd)
+  - `367aa2ffbf290c8b3f2824a9487961cd364c7ced`
+- [x86 Windows 10 Enterprise English (United States) 2.7 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/f9abb24f-b9c3-4798-834a-6475812883ff/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTBUSINESS_VOL_x86FRE_en-us.esd)
+  - `f07cafe64ebe48fc84110d384223528188f30bb7`
+- [x86 Windows 10 Enterprise Spanish (Spain, International Sort) 2.7 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/e55a8bbd-741e-4d0d-8110-f5de04b4b2dc/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTBUSINESS_VOL_x86FRE_es-es.esd)
+  - `db32b35d8bf75e6c94b8dc0e9c1b7c76c01f5426`
+- [x86 Windows 10 Enterprise Spanish (Mexico) 2.6 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/be526985-e3ff-4d62-bb72-12613b24fa26/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTBUSINESS_VOL_x86FRE_es-mx.esd)
+  - `7f3450b6b0b0c17fba94bb92a28982d26783cfde`
+- [x86 Windows 10 Enterprise Estonian (Estonia) 2.6 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/114db1bf-0632-42fe-981d-dbe2db9838fa/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTBUSINESS_VOL_x86FRE_et-ee.esd)
+  - `f4b56ae8ea5a59594a73da47cf8554076bbe2d46`
+- [x86 Windows 10 Enterprise Finnish (Finland) 2.6 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/7eac5331-10a4-4cb5-9d64-93fc3676ec8b/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTBUSINESS_VOL_x86FRE_fi-fi.esd)
+  - `89a0a065ebcae6c2af05c10e49ec262454f0879e`
+- [x86 Windows 10 Enterprise French (Canada) 2.6 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/9d85d18d-c333-42e8-b9be-79b201f1218d/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTBUSINESS_VOL_x86FRE_fr-ca.esd)
+  - `6730bfd9498c1af8d53d522d4509960699bab164`
+- [x86 Windows 10 Enterprise French (France) 2.7 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/3ce255d0-8c82-423a-935f-fe3910cb0953/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTBUSINESS_VOL_x86FRE_fr-fr.esd)
+  - `3493310fc6e3f53a25e18cf08c2c84c61d9c60d3`
+- [x86 Windows 10 Enterprise Hebrew (Israel) 2.6 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/681cbb84-54e3-4f34-a5c5-b99ed9174ce2/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTBUSINESS_VOL_x86FRE_he-il.esd)
+  - `f36a47aa65a0fc395cfbd71095da556df196212e`
+- [x86 Windows 10 Enterprise Croatian (Croatia) 2.6 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/91c4e7e6-f329-45c9-b1d7-3c912aaea9b7/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTBUSINESS_VOL_x86FRE_hr-hr.esd)
+  - `c09c051db015d90523540ed0651c65ed9afed42e`
+- [x86 Windows 10 Enterprise Hungarian (Hungary) 2.6 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/e382524e-ae29-4654-b325-806b52b21427/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTBUSINESS_VOL_x86FRE_hu-hu.esd)
+  - `cd0069069d139e367c1e7d3db7fd3dcb5511e305`
+- [x86 Windows 10 Enterprise Italian (Italy) 2.6 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/cea3d219-c193-476e-950b-b3f58b3e136d/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTBUSINESS_VOL_x86FRE_it-it.esd)
+  - `1ac52ee541929c180acca534795e2bbd30a7a313`
+- [x86 Windows 10 Enterprise Japanese (Japan) 2.7 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/94ff5c05-607f-4a1a-93e9-d013a32a9cc5/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTBUSINESS_VOL_x86FRE_ja-jp.esd)
+  - `db35368b86751a5eb834a9145669721a13c5e5e7`
+- [x86 Windows 10 Enterprise Korean (Korea) 2.6 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/c0e0934b-d4bd-432a-80d6-75fe63c14838/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTBUSINESS_VOL_x86FRE_ko-kr.esd)
+  - `4b7c88681fef90a9053146d1e95e96415f4bf067`
+- [x86 Windows 10 Enterprise Lithuanian (Lithuania) 2.6 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/cda624e4-d38c-45a4-941a-02e28f421d87/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTBUSINESS_VOL_x86FRE_lt-lt.esd)
+  - `86d8510e84a79f5041cb0d5509b8d204f66c5b47`
+- [x86 Windows 10 Enterprise Latvian (Latvia) 2.6 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/ab2a8f66-fc39-4ed8-bdca-a35c8a23db33/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTBUSINESS_VOL_x86FRE_lv-lv.esd)
+  - `da45fe174bd9992aed3041b68f776a133a8803a2`
+- [x86 Windows 10 Enterprise Norwegian Bokmål (Norway) 2.6 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/de9059e9-1b24-4f86-b373-a2b25cf4557b/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTBUSINESS_VOL_x86FRE_nb-no.esd)
+  - `217411f8d5b99f27b4f5bbc30969991248ba3882`
+- [x86 Windows 10 Enterprise Dutch (Netherlands) 2.6 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/338303ad-ffbb-40aa-82bb-48b1883aade6/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTBUSINESS_VOL_x86FRE_nl-nl.esd)
+  - `3914fefae254e167d264f31fbb85d73f0652e080`
+- [x86 Windows 10 Enterprise Polish (Poland) 2.6 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/5c9478ee-763f-4a3f-a548-b222db758d2d/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTBUSINESS_VOL_x86FRE_pl-pl.esd)
+  - `33a34f0069e40f7818754ae718c8d8d2252bd5e3`
+- [x86 Windows 10 Enterprise Portuguese (Brazil) 2.6 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/f3ffc752-79b0-436e-a4a5-6aaf31cc96d1/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTBUSINESS_VOL_x86FRE_pt-br.esd)
+  - `ef2ca02c59d0b50533043c29bd6083faddb643bf`
+- [x86 Windows 10 Enterprise Portuguese (Portugal) 2.6 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/e9f3b887-70e5-4fa2-83ea-da3aa7675a9c/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTBUSINESS_VOL_x86FRE_pt-pt.esd)
+  - `c2def6fd513554ca254615c588769a49eed4812d`
+- [x86 Windows 10 Enterprise Romanian (Romania) 2.6 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/82ca7f81-4b77-415b-9dd2-0b48e62f2e59/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTBUSINESS_VOL_x86FRE_ro-ro.esd)
+  - `b9ea99b6f524d30be231e63d76aef600de8abe29`
+- [x86 Windows 10 Enterprise Russian (Russia) 2.6 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/ca6bdcbd-808b-4a38-bb70-2209ff26732b/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTBUSINESS_VOL_x86FRE_ru-ru.esd)
+  - `398a4f2b7c1d922d2d0be540feefab70d80a850d`
+- [x86 Windows 10 Enterprise Slovak (Slovakia) 2.6 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/64f1ffc0-de5a-46b2-80d5-f6ad7c0fec43/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTBUSINESS_VOL_x86FRE_sk-sk.esd)
+  - `bb3d75b53fff97a8b5acba5993aeba59718bf056`
+- [x86 Windows 10 Enterprise Slovenian (Slovenia) 2.6 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/8c215e05-edef-4152-86f8-027ae9d2b7b6/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTBUSINESS_VOL_x86FRE_sl-si.esd)
+  - `01d17be191db464f8b6bda0ef9384ce066913996`
+- [x86 Windows 10 Enterprise Serbian (Latin, Serbia) 2.5 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/d1283f47-23ed-4da5-bd4d-098720134962/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTBUSINESS_VOL_x86FRE_sr-latn-rs.esd)
+  - `19fd548322e12e3e682c84c138cc46faa619e5a7`
+- [x86 Windows 10 Enterprise Swedish (Sweden) 2.6 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/3ef5af2a-7b8d-4f63-aae5-20ebbec6d8ee/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTBUSINESS_VOL_x86FRE_sv-se.esd)
+  - `0115216de2f9937f5733242eb3d3b526f5e53c90`
+- [x86 Windows 10 Enterprise Thai (Thailand) 2.5 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/fa90bafd-951b-4608-a568-10f9cc178f10/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTBUSINESS_VOL_x86FRE_th-th.esd)
+  - `55b136ba8eba3685b133df164b6bafc7f78c5568`
+- [x86 Windows 10 Enterprise Turkish (Turkey) 2.5 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/b479279e-c072-43ae-a12d-b56cf200d3d3/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTBUSINESS_VOL_x86FRE_tr-tr.esd)
+  - `2585cf39077294e3cf8187ba94f2285f44fdfbed`
+- [x86 Windows 10 Enterprise Ukrainian (Ukraine) 2.5 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/a294d303-5509-491e-b0c0-ef394724069e/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTBUSINESS_VOL_x86FRE_uk-ua.esd)
+  - `f4b39d469d6c2db31a8b973a55bc269ad75c1a9a`
+- [x86 Windows 10 Enterprise Chinese (Simplified, China) 2.8 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/2c06324f-4fb7-4454-92ad-7787d59851dd/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTBUSINESS_VOL_x86FRE_zh-cn.esd)
+  - `96b6fc82869976f72adb1d9e5933bcf36eddc15e`
+- [x86 Windows 10 Enterprise Chinese (Traditional, Taiwan) 2.7 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/faef4ac3-a7d2-4490-9bf5-f44d6a3ae27f/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTBUSINESS_VOL_x86FRE_zh-tw.esd)
+  - `c1a8e8d7ccf0d53f4802d68f4c4e601e67880efd`
+- [x86 Windows 10 Arabic (Saudi Arabia) 2.6 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/36fd6597-b9df-4076-a16d-8ade4e8a27c7/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTCONSUMER_RET_x86FRE_ar-sa.esd)
+  - `925bebdd292ac5b1e383aaf6242dae56b553d0b0`
+- [x86 Windows 10 Bulgarian (Bulgaria) 2.7 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/9dca4652-4b33-47f4-bee2-0ccbb644588b/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTCONSUMER_RET_x86FRE_bg-bg.esd)
+  - `f60cf2d82dfc0785e51585ef4b87641f7353a57d`
+- [x86 Windows 10 Czech (Czechia) 2.6 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/4de9206b-4c37-4bf1-b05c-af3995c359a0/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTCONSUMER_RET_x86FRE_cs-cz.esd)
+  - `81cd2b3a37a52affa893735648db81c35a7a12ae`
+- [x86 Windows 10 Danish (Denmark) 2.7 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/100595d6-9261-48c9-b68a-503a540514fc/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTCONSUMER_RET_x86FRE_da-dk.esd)
+  - `5a61a51d606b395a348c1415ff5f642c4715b04e`
+- [x86 Windows 10 German (Germany) 2.8 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/ff8b0adf-e947-4ba1-a574-9973a07d7894/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTCONSUMER_RET_x86FRE_de-de.esd)
+  - `b8fc7dbfa9a06f300d15ce75fb24ad5d479c6bf6`
+- [x86 Windows 10 Greek (Greece) 2.7 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/516c83ee-2812-414f-938e-bfb31367433a/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTCONSUMER_RET_x86FRE_el-gr.esd)
+  - `3e39e07be49ef649be67336c1917c8d4ad23135f`
+- [x86 Windows 10 English (United Kingdom) 2.7 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/0b5c7b53-5284-427d-9f24-430d16f7c14c/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTCONSUMER_RET_x86FRE_en-gb.esd)
+  - `2ecc2d550afd8c2e07eb4cccd83ea4d8c640d70f`
+- [x86 Windows 10 English (United States) 2.8 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/91c7756c-5b20-4342-8651-e5186d978951/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTCONSUMER_RET_x86FRE_en-us.esd)
+  - `b271403ab23826708f626f671b2115e6f96c166d`
+- [x86 Windows 10 Spanish (Spain, International Sort) 2.8 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/5c1184c1-b385-418f-9dbf-788aa211b818/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTCONSUMER_RET_x86FRE_es-es.esd)
+  - `c8dac62aa4ac4ace998bc525a08b2e34b7128c9c`
+- [x86 Windows 10 Spanish (Mexico) 2.6 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/16cf0260-3755-4324-add2-50d05a65ac0f/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTCONSUMER_RET_x86FRE_es-mx.esd)
+  - `170c123ceb0f4d240dd644a9c6d3bd4aa428689a`
+- [x86 Windows 10 Estonian (Estonia) 2.6 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/4965806a-58d7-4d64-af23-5cea017a2de3/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTCONSUMER_RET_x86FRE_et-ee.esd)
+  - `82b922870983d3bf36f0eba174b87975e3c25fa7`
+- [x86 Windows 10 Finnish (Finland) 2.7 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/48a211a9-81ae-4d83-877f-fb29edb7eb58/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTCONSUMER_RET_x86FRE_fi-fi.esd)
+  - `5e6482a32f77cfbaa52008db00254a8fc697c56a`
+- [x86 Windows 10 French (Canada) 2.6 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/152f0aa9-a09d-4ed3-a71e-bc6c44270a14/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTCONSUMER_RET_x86FRE_fr-ca.esd)
+  - `2c5601477ca920928419509e26d2cf126db44c19`
+- [x86 Windows 10 French (France) 2.8 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/6657c195-f60e-41dc-a25e-f205d78decd2/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTCONSUMER_RET_x86FRE_fr-fr.esd)
+  - `e1566a1cbe23de0f133f9920fa29b7ff74dfc38e`
+- [x86 Windows 10 Hebrew (Israel) 2.6 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/67920cec-22a2-4f04-b033-d61a49a32c76/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTCONSUMER_RET_x86FRE_he-il.esd)
+  - `6d1e64b2e3d1563975d2193f712532fbc9e27468`
+- [x86 Windows 10 Croatian (Croatia) 2.6 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/28b496fa-f721-4a89-9525-f3167665cc6c/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTCONSUMER_RET_x86FRE_hr-hr.esd)
+  - `c084e4b0353920139d071e7415833c838b4459fc`
+- [x86 Windows 10 Hungarian (Hungary) 2.6 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/e950dce0-403a-4341-8a35-67356b525cba/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTCONSUMER_RET_x86FRE_hu-hu.esd)
+  - `a6a8c7a77df97a2e6a906bacb1d055a4858fb661`
+- [x86 Windows 10 Italian (Italy) 2.7 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/b8352380-d43a-4090-9849-f8405c106c76/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTCONSUMER_RET_x86FRE_it-it.esd)
+  - `48f81d47ab8f1cdda83066a41c85cfacb227d9c8`
+- [x86 Windows 10 Japanese (Japan) 2.8 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/3c237bc3-aa09-46e7-8d01-9cb3280a7028/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTCONSUMER_RET_x86FRE_ja-jp.esd)
+  - `1e6e16894ef27da1a666c17519dde251d9d0adfb`
+- [x86 Windows 10 Korean (Korea) 2.6 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/43dcf2eb-b3ce-4005-8de0-179952c6c875/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTCONSUMER_RET_x86FRE_ko-kr.esd)
+  - `5599534dd1667dc121a70d894812c9a9ebd03e2b`
+- [x86 Windows 10 Lithuanian (Lithuania) 2.6 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/6cf8b361-c8cf-4c93-a34c-c786e679077b/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTCONSUMER_RET_x86FRE_lt-lt.esd)
+  - `1d825abde433509ba444017b03c28f5a74f9d11c`
+- [x86 Windows 10 Latvian (Latvia) 2.6 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/8f57e1ab-c5c2-43e5-adb7-5286ab049f33/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTCONSUMER_RET_x86FRE_lv-lv.esd)
+  - `bab54aaa678fe1dbcc6c439e6e4d66ecb1bd8fb1`
+- [x86 Windows 10 Norwegian Bokmål (Norway) 2.6 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/45f41afe-1ac9-4e1c-8907-2ba1755568cb/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTCONSUMER_RET_x86FRE_nb-no.esd)
+  - `0c8f3294c7aec057c5c83f3ab0b5f694157d2466`
+- [x86 Windows 10 Dutch (Netherlands) 2.7 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/8e98c217-d8f4-46a6-8083-3cfa4e1ce920/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTCONSUMER_RET_x86FRE_nl-nl.esd)
+  - `ce8d890561f6ec16bb0e7f9714c2e4ed7812784c`
+- [x86 Windows 10 Polish (Poland) 2.7 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/7087cd3e-e198-4ff0-af46-9408f4fdf3bf/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTCONSUMER_RET_x86FRE_pl-pl.esd)
+  - `0c100bff127c72c09e4943e42babb7aea6f0b1b5`
+- [x86 Windows 10 Portuguese (Brazil) 2.6 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/baca3f65-926e-489c-9a70-78c580cdd2ad/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTCONSUMER_RET_x86FRE_pt-br.esd)
+  - `bace9674775241ded41c2b21d53f12d947f33e69`
+- [x86 Windows 10 Portuguese (Portugal) 2.7 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/fd3eb0f2-2d28-44a2-9a53-affb0e8ec9fa/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTCONSUMER_RET_x86FRE_pt-pt.esd)
+  - `c455904cf6d39cdf57d983c16f044e9d96ae3cd0`
+- [x86 Windows 10 Romanian (Romania) 2.6 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/8d9df6de-e12c-4eba-8f00-d90882fe2889/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTCONSUMER_RET_x86FRE_ro-ro.esd)
+  - `a822e7c57b9d5b61233f431218365b8986e95756`
+- [x86 Windows 10 Russian (Russia) 2.6 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/8d6837a1-f03c-4823-adfe-0dc3af70d7f3/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTCONSUMER_RET_x86FRE_ru-ru.esd)
+  - `9ac705c97333bc39189822d90d2ec342d85d23fa`
+- [x86 Windows 10 Slovak (Slovakia) 2.6 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/b8a96afe-3c1f-47cf-a60d-686928fd5aec/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTCONSUMER_RET_x86FRE_sk-sk.esd)
+  - `d1796bd3a0ba0a1bbfbca00f5c35d7f17b633784`
+- [x86 Windows 10 Slovenian (Slovenia) 2.6 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/e4a8e0f1-73a6-4a02-8015-046578c96926/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTCONSUMER_RET_x86FRE_sl-si.esd)
+  - `b0e7c965ddb27309789f86fa9823a3c9cabb9760`
+- [x86 Windows 10 Serbian (Latin, Serbia) 2.6 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/88a4e6f0-4ab6-4a73-a1bf-a52946ea3d3d/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTCONSUMER_RET_x86FRE_sr-latn-rs.esd)
+  - `4353c93e53a06d0b7053953a81cb27fd3d135950`
+- [x86 Windows 10 Swedish (Sweden) 2.6 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/e78665c8-939d-4122-aa03-f5eb3565fea8/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTCONSUMER_RET_x86FRE_sv-se.esd)
+  - `a68fd3a2d0ced87fa9d6ca3f43bd1e8b18e36c6e`
+- [x86 Windows 10 Thai (Thailand) 2.6 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/6cd19664-441f-4f28-a18d-2d5f36b65853/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTCONSUMER_RET_x86FRE_th-th.esd)
+  - `172f2a2e434f1b26a5304a453ab325d67747643c`
+- [x86 Windows 10 Turkish (Turkey) 2.6 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/cb22bc9f-0412-4f47-a02d-a9e4ad6ed212/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTCONSUMER_RET_x86FRE_tr-tr.esd)
+  - `f6bdc379d471467312c136c5c5d4107b0e8f74f3`
+- [x86 Windows 10 Ukrainian (Ukraine) 2.6 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/b1953d06-95b0-4c33-8744-e75129b5ec35/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTCONSUMER_RET_x86FRE_uk-ua.esd)
+  - `3db89775a60cbea9303f25d9396183a053d1b056`
+- [x86 Windows 10 Chinese (Simplified, China) 2.8 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/1c0b9500-e99b-4b64-b8a7-920e91e8d09d/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTCONSUMER_RET_x86FRE_zh-cn.esd)
+  - `8e3981b259da46165038977e4a770343a921a57b`
+- [x86 Windows 10 Chinese (Traditional, Taiwan) 2.8 GB](http://dl.delivery.mp.microsoft.com/filestreamingservice/files/aba4f41b-d914-4c99-b3e8-f5dcd423c63e/19045.3803.231204-0204.22h2_release_svc_refresh_CLIENTCONSUMER_RET_x86FRE_zh-tw.esd)
+  - `c5a58604b5912d13e9cfaf7e3380ea324aa9b6d8`
+
+---
+*Data sources: [worproject.com](https://worproject.com/dldserv/esd/getversions.php) → Microsoft Media Creation Tool catalogs*
