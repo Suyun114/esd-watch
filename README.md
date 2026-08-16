@@ -1,7 +1,7 @@
 # Windows ESD Links
 
 > Auto-updated every day by [GitHub Actions](.github/workflows/update.yml).
-> Last refresh: **2026-08-15 07:01 UTC**
+> Last refresh: **2026-08-16 07:03 UTC**
 
 > **Note:** CDN only serves HTTP — use `curl -LO` or right-click "Save link as…" to download.
 > Verify with `shasum -a 1 <file>` against the SHA1 shown after each link.
